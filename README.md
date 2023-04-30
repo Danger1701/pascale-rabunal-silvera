@@ -1,20 +1,20 @@
 # Informe de obligatorio ISA
 ---------------------------------------------------------------------------
 
-Materia: INGENIERIA DE SOFTWARE AGIL 1
+## Materia: INGENIERIA DE SOFTWARE AGIL 1
 
-Estudiantes: Juan Manuel Rabuñal - Maximiliano Pascale - Sebastian Silveira
+### Estudiantes: Juan Manuel Rabuñal - Maximiliano Pascale - Sebastian Silveira
 ---------------------------------------------------------------------------
 
-## Herramienta para gestion del proyecto
+### Herramienta para gestion del proyecto
 Azure Devops: https://dev.azure.com/Pascale-Rabunal-Silvera/Mini%20Proyecto%202023
 
-## Versionado
-### Repositorio Github: https://github.com/ORT-ISA1/pascale-rabunal-silvera
+### Versionado
+Repositorio Github: https://github.com/ORT-ISA1/pascale-rabunal-silvera
 ---------------------------------------------------------------------------
 
-# Definición del marco de trabajo
-#### Marco general del scrum
+## Definición del marco de trabajo
+### Marco general del scrum
 El resultado del proyecto es poder descubrir, idear y prototipar un MVP (Minimum Viable Product) de una aplicación móvil para ayudar al usuario a reservar canchas para realizar actividades deportivas.
 
 Dicho marco de trabajo es desconocido para los integrantes del equipo por lo que va a haber una cierta curva de aprendizaje dentro del desarrollo de la aplicación.
@@ -51,3 +51,18 @@ Los criterios para determinar qué historias terminaron con éxito su proceso de
 3.	El elemento ha sido probado y se ha verificado que funciona correctamente en diferentes entornos.
 4.	El elemento ha sido integrado y desplegado en el entorno de producción.
 5.	La documentación ha sido actualizada y se ha revisado para asegurarse de que esté completa y precisa.
+
+## Versionado
+
+Se crea el repositorio https://github.com/ORT-ISA1/pascale-rabunal-silvera 
+
+Se trabaja con dos ramas “main” y “develop”, en esta última cada miembro del equipo trabajará de acuerdo a las buenas prácticas aprendidas. 
+
+Trabajaremos sobre “develop”, donde cada miembro creara sus ramas y trabaja sobre ellas. Una vez completado el desarrollo debera mergear a “develop”.
+
+Al finalizar cada sprint “develop” será mergeada a “main”.
+
+
+
+
+
