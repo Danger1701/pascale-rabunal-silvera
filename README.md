@@ -24,13 +24,13 @@ El equipo de desarrollo va a utilizar la forma de trabajo basada en SCRUM y adem
 ![image](https://user-images.githubusercontent.com/64442147/235362931-867b5b72-dfb6-4173-8678-b1afa27c7d91.png)
 
 ### Supuestos Efectuados
-1 - La aplicación va a ser únicamente para Uruguay.
-2 - La descarga de la aplicación será gratuita.
-3 - Únicamente va a estar en Español
+1.	La aplicación va a ser únicamente para Uruguay.
+2.	La descarga de la aplicación será gratuita.
+3.	Únicamente va a estar en Español
 
 ### Roles
 
-![image](https://user-images.githubusercontent.com/64442147/235362964-99713fcb-5488-4787-a9a9-12f896dbc64c.png)
+![image](https://user-images.githubusercontent.com/64442147/235363898-57a075bb-3c79-44a8-ae4e-264c9b3fbc44.png)
 
 ### Políticas de trabajo
 
