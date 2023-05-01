@@ -10,8 +10,8 @@
 ---------------------------------------------------------------------------
 
 ### Herramienta para gestión del proyecto
-Azure Devops: https://dev.azure.com/Pascale-Rabunal-Silvera/Mini%20Proyecto%202023
+#### Azure Devops: https://dev.azure.com/Pascale-Rabunal-Silvera/Mini%20Proyecto%202023
 
 ### Versionado
-Repositorio Github: https://github.com/ORT-ISA1/pascale-rabunal-silvera
+#### Repositorio Github: https://github.com/ORT-ISA1/pascale-rabunal-silvera
 ---------------------------------------------------------------------------
