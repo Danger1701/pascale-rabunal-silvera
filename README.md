@@ -3,10 +3,11 @@
 
 ## Materia: INGENIERIA DE SOFTWARE AGIL 1
 
+### Equipo 5 - Mini proyecto
 ### Estudiantes: Juan Manuel Rabuñal - Maximiliano Pascale - Sebastian Silveira
 ---------------------------------------------------------------------------
 
-### Herramienta para gestion del proyecto
+### Herramienta para gestión del proyecto
 Azure Devops: https://dev.azure.com/Pascale-Rabunal-Silvera/Mini%20Proyecto%202023
 
 ### Versionado
@@ -45,7 +46,7 @@ La definición de lista de requisitos previos para una historia de usuario entra
 4.	Los criterios de aceptación deben ser claros y presentados como escenarios, explicando el contexto, el evento y los resultados esperados.
 
 #### Definición de Done
-Los criterios para determinar qué historias terminaron con éxito su proceso de implementación. serian 
+Los criterios para determinar qué historias terminaron con éxito su proceso de implementación serán: 
 1.	Las pruebas automatizadas y manuales han sido completadas satisfactoriamente.
 2.	El elemento ha sido revisado por un par o por el equipo de desarrollo.
 3.	El elemento ha sido probado y se ha verificado que funciona correctamente en diferentes entornos.
@@ -58,7 +59,7 @@ Se crea el repositorio https://github.com/ORT-ISA1/pascale-rabunal-silvera
 
 Se trabaja con dos ramas “main” y “develop”, en esta última cada miembro del equipo trabajará de acuerdo a las buenas prácticas aprendidas. 
 
-Trabajaremos sobre “develop”, donde cada miembro creara sus ramas y trabaja sobre ellas. Una vez completado el desarrollo debera mergear a “develop”.
+Trabajaremos sobre “develop”, donde cada miembro creara sus ramas y trabaja sobre ellas. Una vez completado el desarrollo deberá mergear a “develop”.
 
 Al finalizar cada sprint “develop” será mergeada a “main”.
 
