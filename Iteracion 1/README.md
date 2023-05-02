@@ -149,3 +149,15 @@ Teniendo en cuenta el objetivo de atender a la población de Uruguay, podemos se
 En cuanto a la variedad de opciones de canchas y servicios, Alquilatucancha es la plataforma que ofrece una mayor cantidad de opciones, como canchas con césped sintético, vestuarios y estacionamiento. No obstante, Canchea y Quierojugar también ofrecen una buena variedad de opciones en términos de canchas deportivas.  
 
 En resumen, si bien todas estas plataformas comparten un objetivo común de facilitar la reserva de canchas deportivas en línea, cada una tiene características y enfoques únicos.
+
+### Priorización de funcionalidades basadas en la importancia del negocio
+
+Al desarrollar una aplicación móvil para reservar canchas deportivas, es importante priorizar las funcionalidades más críticas para el negocio, teniendo en cuenta que el equipo está formado por 3 personas.  
+Aquí nuestra lista de prioridades:  
+
+1. **Registrar nuevo usuario**: Es importante permitir que nuevos usuarios se registren en la aplicación y accedan a sus características.
+2. **Login de usuario**: Esto es importante para garantizar la seguridad de los datos del usuario y permitir una experiencia personalizada.
+3. **Edición de usuario**: Esto es importante para garantizar la integridad de los datos del usuario y permitir una experiencia personalizada.
+4. **Buscar canchas para reservar utilizando filtros**: Esta es una funcionalidad clave, ya que permitirá a los usuarios encontrar fácilmente las canchas que mejor se adapten a sus necesidades.
+5. **Notificaciones de reserva y cancelación**: Es importante mantener a los usuarios informados de cualquier cambio en sus reservas para evitar confusiones y malentendidos.
+6. **Modo Juego Aleatorio**: Esta es una función interesante para permitir a los usuarios encontrar compañeros de juego, pero puede ser menos crítica que otras funciones y puede requerir más tiempo y recursos para desarrollarla.
