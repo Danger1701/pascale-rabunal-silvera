@@ -76,7 +76,7 @@ Algunas de las funcionalidades que surgen de la entrevista son:
 Se realiza el análisis de posibles competidores que se encuentran en el mercado uruguayo.
 
 **1. Wonasports**
-    <https://wonasports.com/>
+    <https://wonasports.com/>&nbsp;
     Es un sistema que facilita el acceso a toda la oferta del deporte amateur en una misma plataforma.
     Algunas de sus principales funcionalidades son:
 
@@ -86,7 +86,7 @@ Se realiza el análisis de posibles competidores que se encuentran en el mercado
     - Pagos en línea, los usuarios pueden realizar pagos en línea de forma segura y fácil a través de la plataforma
 
 **2. Canchea**
-    <https://canchea.com.uy/>
+    <https://canchea.com.uy/>&nbsp;
     Es un sitio web uruguayo que se dedica a la reserva de canchas de fútbol.
     A continuación se describen algunas de sus funcionalidades:
 
@@ -96,7 +96,7 @@ Se realiza el análisis de posibles competidores que se encuentran en el mercado
     - Se realizan menciones periódicas en redes sociales y correos electrónicos a los complejos agregados, lo que aumenta la audiencia y las consultas de los usuarios.
 
 **3. Alquilatucancha**
-    <https://alquilatucancha.com/>
+    <https://alquilatucancha.com/>&nbsp;
     Alquila Tu Cancha es una plataforma en línea que permite a los usuarios reservar canchas deportivas en complejos deportivos a través de Internet. También ofrece una solución de gestión para los propietarios de complejos deportivos que les permite gestionar sus instalaciones en línea.
     Algunas de sus principales funcionalidades son:
 
@@ -106,7 +106,7 @@ Se realiza el análisis de posibles competidores que se encuentran en el mercado
     - La plataforma unifica toda la gestión de los complejos deportivos, lo que permite a los propietarios de los mismos acceder a información en tiempo real sobre la disponibilidad de las canchas y gestionar las reservas en línea.
 
 **4. Quierojugar**
-    <https://quierojugar.com.uy/>
+    <https://quierojugar.com.uy/>&nbsp;
      Algunas de sus funcionalidades más destacadas son:
 
     - Posibilidad de buscar canchas deportivas disponibles para reservar en la zona deseada.
