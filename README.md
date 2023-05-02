@@ -70,7 +70,7 @@ Los criterios para determinar qué historias terminaron con éxito su proceso de
 4. El elemento ha sido integrado y desplegado en el entorno de producción.
 5. La documentación ha sido actualizada y se ha revisado para asegurarse de que esté completa y precisa.
 
-### Versionado
+### Control de versiones
 
 Se crea el repositorio <https://github.com/ORT-ISA1/pascale-rabunal-silvera>
 
