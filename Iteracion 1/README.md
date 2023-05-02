@@ -101,7 +101,6 @@ Se realiza el análisis de posibles competidores que se encuentran en el mercado
 ![Canchea_2](https://user-images.githubusercontent.com/22498383/235555720-fabb55e9-80ee-42eb-9278-15246425266b.jpeg)
 ![Canchea_3](https://user-images.githubusercontent.com/22498383/235555722-85887a83-4e60-4895-9f5f-f4fe75371384.jpeg)
 
-
 **3. Alquilatucancha**
     <https://alquilatucancha.com/>  
     Alquila Tu Cancha es una plataforma en línea que permite a los usuarios reservar canchas deportivas en complejos deportivos a través de Internet. También ofrece una solución de gestión para los propietarios de complejos deportivos que les permite gestionar sus instalaciones en línea.
@@ -115,7 +114,6 @@ Se realiza el análisis de posibles competidores que se encuentran en el mercado
 ![Alquilatucancha_1](https://user-images.githubusercontent.com/22498383/235555733-e16d11e5-194f-4522-980f-3659d6c64fb9.jpeg)
 ![Alquilatucancha_2](https://user-images.githubusercontent.com/22498383/235555736-d4c459cb-21fc-41ee-8f7f-3dc60c327be8.jpeg)
 ![Alquilatucancha_4](https://user-images.githubusercontent.com/22498383/235555739-78a6d50e-7d9c-4de6-9599-fd9cb74de110.jpeg)
-
 
 **4. Quierojugar**
     <https://quierojugar.com.uy/>  
