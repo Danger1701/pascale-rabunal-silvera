@@ -85,6 +85,8 @@ Se realiza el análisis de posibles competidores que se encuentran en el mercado
     - Conexión entre jugadores, la plataforma permite a los jugadores conectarse entre sí, unirse a equipos y participar en ligas y torneos.
     - Pagos en línea, los usuarios pueden realizar pagos en línea de forma segura y fácil a través de la plataforma
 
+![Wonasports_1](https://user-images.githubusercontent.com/22498383/235555673-283a831c-035b-4e76-a30d-cfedbbb493d7.jpeg)
+
 **2. Canchea**
     <https://canchea.com.uy/>  
     Es un sitio web uruguayo que se dedica a la reserva de canchas de fútbol.
@@ -94,6 +96,11 @@ Se realiza el análisis de posibles competidores que se encuentran en el mercado
     - Información de complejos deportivos: Canchea.com.uy cuenta con información detallada de los complejos deportivos que ofrecen canchas de fútbol en Montevideo, incluyendo horarios, servicios (como barbacoa, parrillero, cantina, estacionamiento, entre otros), y fotografías.
     - Promoción de complejos deportivos: los complejos deportivos pueden agregar su información al sitio web para ser promocionados en la página y ganar mayor visibilidad en las búsquedas relacionadas con el alquiler de canchas deportivas.
     - Se realizan menciones periódicas en redes sociales y correos electrónicos a los complejos agregados, lo que aumenta la audiencia y las consultas de los usuarios.
+
+![Canchea_1](https://user-images.githubusercontent.com/22498383/235555718-a9a253a9-3e81-4b5b-8e07-417ddcbb92ee.jpeg)
+![Canchea_2](https://user-images.githubusercontent.com/22498383/235555720-fabb55e9-80ee-42eb-9278-15246425266b.jpeg)
+![Canchea_3](https://user-images.githubusercontent.com/22498383/235555722-85887a83-4e60-4895-9f5f-f4fe75371384.jpeg)
+
 
 **3. Alquilatucancha**
     <https://alquilatucancha.com/>  
@@ -105,6 +112,11 @@ Se realiza el análisis de posibles competidores que se encuentran en el mercado
     - Para los propietarios de complejos deportivos, Alquila Tu Cancha ofrece una solución de gestión en línea que permite la reserva de canchas deportivas y la administración de las reservas.
     - La plataforma unifica toda la gestión de los complejos deportivos, lo que permite a los propietarios de los mismos acceder a información en tiempo real sobre la disponibilidad de las canchas y gestionar las reservas en línea.
 
+![Alquilatucancha_1](https://user-images.githubusercontent.com/22498383/235555733-e16d11e5-194f-4522-980f-3659d6c64fb9.jpeg)
+![Alquilatucancha_2](https://user-images.githubusercontent.com/22498383/235555736-d4c459cb-21fc-41ee-8f7f-3dc60c327be8.jpeg)
+![Alquilatucancha_4](https://user-images.githubusercontent.com/22498383/235555739-78a6d50e-7d9c-4de6-9599-fd9cb74de110.jpeg)
+
+
 **4. Quierojugar**
     <https://quierojugar.com.uy/>  
      Algunas de sus funcionalidades más destacadas son:  
@@ -114,3 +126,6 @@ Se realiza el análisis de posibles competidores que se encuentran en el mercado
     - Información detallada sobre las canchas deportivas, incluyendo fotos, ubicación y características.
     - Administración de reservas y pagos a través de una cuenta personal.
     - Acceso a promociones y descuentos exclusivos.
+
+![Quierojugar_1](https://user-images.githubusercontent.com/22498383/235555763-71431ca7-eb4d-4dff-a842-4f19c520fa61.jpeg)
+![Quierojugar_2](https://user-images.githubusercontent.com/22498383/235555766-fa1200ed-b005-458f-b301-c8678b36531d.jpeg)
