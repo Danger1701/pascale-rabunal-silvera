@@ -65,11 +65,13 @@ Es importante aclarar, que estas características son las deseadas por los entre
 Los usuarios finales son las personas que utilizarán la aplicación para reservar canchas deportivas.
 Algunas de las funcionalidades que surgen de la entrevista son:
 
-    - Búsqueda de canchas deportivas por ubicación y deporte.
+    - Búsqueda de canchas deportivas por ubicación y deporte , disopnibilidad.
     - Reserva de canchas deportivas en tiempo real.
     - Cancelación de reservas.
     - Pago en línea seguro.
-    - Valoraciones y comentarios de otros usuarios.
+    - Valoraciones y comentarios sobre otros usuarios , canchas.
+    - Calificación y reseñas de las canchas y proveedores de servicios deportivos.
+    -Comunicación en tiempo real con el propietario de la cancha o otros usuarios.
     - Notificaciones y recordatorios de reservas y ofertas.
 
 **2. Propietarios de canchas deportivas:**
@@ -78,8 +80,10 @@ Algunas de las funcionalidades que surgen de la entrevista son:
 
     - Registro y publicación de sus canchas deportivas en la aplicación.
     - Edición de información y precios de sus canchas deportivas.
+    - Gestion de precios y descuentos disponibles
     - Gestión de reservas y cancelaciones.
     - Pago en línea seguro.
+    - Comunicación en tiempo real con los usuarios finales.
     - Anuncios y promociones de sus canchas deportivas.
 
 **3. Organizadores de eventos deportivos:**
@@ -87,6 +91,8 @@ Los organizadores de eventos deportivos podrían estar interesados en la aplicac
 Algunas de las funcionalidades que surgen de la entrevista son:
 
     - Publicación y promoción de sus eventos deportivos en la aplicación.
+    - Poder conocer datos estadisticos de los usuarios o posibles interesados.
+    - Integracion con redes sociales como Instagram o Facebook.
     - Gestión de reservas y cancelaciones de sus eventos deportivos.
     - Pago en línea seguro.
     - Valoraciones y comentarios de los participantes.
@@ -101,6 +107,10 @@ Algunas de las funcionalidades que surgen de la entrevista son:
     - Pago en línea seguro.
     - Valoraciones y comentarios de los participantes.
     - Anuncios y promociones de sus entrenamientos y actividades.
+    
+## Perfiles de Posibles Usuarios
+
+
 
 ### Estudio de competidores
 
