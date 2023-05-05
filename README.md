@@ -167,14 +167,14 @@ Algunas de las funcionalidades que surgen de la entrevista son:
     - Pago en línea seguro.
     - Valoraciones y comentarios de los participantes.
     - Anuncios y promociones de sus entrenamientos y actividades.
-    
+
 ## Perfiles de Posibles Usuarios
 
-![Usuario1](https://user-images.githubusercontent.com/62801065/236335161-c9431ba6-4d6e-4876-bbca-88eee327d7ee.png)
+![Usuario1](https://user-images.githubusercontent.com/62801065/236575902-e30bc2b9-067d-4d85-9c9b-1541c4224368.png)
 
-![Usuario2](https://user-images.githubusercontent.com/62801065/236335188-9a79d272-c1dc-40c4-b3e7-3939b585d101.png)
+![Usuario2](https://user-images.githubusercontent.com/62801065/236575919-30a765c7-f775-4ac2-b5bf-5252a500910f.png)
 
-![Usuarios3](https://user-images.githubusercontent.com/62801065/236335200-11015d38-40e9-447b-b5f0-3caa7943b6f5.png)
+![Usuario3](https://user-images.githubusercontent.com/62801065/236575956-66a867e2-6256-478f-9c6a-d7e9f9edece7.png)
 
 ### Estudio de competidores
 
@@ -269,6 +269,23 @@ Aquí nuestra lista de prioridades:
 
 ---------------------------------------------------------------------------
 
+## Sprint Review
+
+Durante el evento, el Equipo Scrum y las partes interesadas revisan lo que se hizo en el Sprint y los cambios que ocurrieron en el entorno. En el progreso, los aspectos generales del proyecto pasan a primer plano, como la definición del marco, las iteraciones y la planificación del repositorio.
+Luego de la definición del marco de trabajo basado en SCRUM, con los roles definidos para cada integrante en el equipo y los acuerdos principales y sus políticas de trabajo.
+Asimismo, se enfatiza la identificación del problema a resolver y la definición del problema.
+Se realizo una definición del problema, el armado de un product backlog definido con su jerarquía de épicas, historias de usuario y tareas con su respectiva priorización, estimación y criterios de aceptación.
+Ademas de un análisis exploratorio de mercado que incluye identificación de interesados con sus funcionalidades y estudio de competidores.
+
+## Sprint Retrospective
+
+Al finalizar la primera iteración del proyecto logramos identificar varias conclusiones.
+En primer lugar estuvimos muy trancados al principio sobre como arrancar a trabajar, pero a medida que fue pasando el tiempo ya pudimos trabajar cada uno de forma independiente pasando status en las daily meeting.
+Para la próxima iteración vamos a mejorar mucho la velocidad de trabajo del equipo ya que nos llevo gran tiempo aprender a utilizar las diferentes herramientas como el Azure DevOps y Clockify. Pero para la próxima iteración ya vamos a tener practica con el uso de ellas.
+Al tener un equipo de trabajo tan pequeño es complicado poder estimar la capacidad de trabajo por sprint ya que son muchas las tareas que se deben realizar por cada iteración.
+
+---------------------------------------------------------------------------
+
 ## Product Backlog
 
 ![Backlog_1](https://user-images.githubusercontent.com/22498383/236547875-f4d31b4f-a68e-44f9-8b9d-375d02db5e10.png)
@@ -286,32 +303,14 @@ Aquí nuestra lista de prioridades:
 ![Boards_2](https://user-images.githubusercontent.com/22498383/236550856-5403aeb1-04c5-4ae7-8bfe-65dfdefc0aaf.PNG)
 ![Boards_3](https://user-images.githubusercontent.com/22498383/236550858-24b14bef-bda2-4b0d-99f1-041a35c9dd16.PNG)
 
-## Burndown Trend 
+## Burndown Trend
 
 ![Burndown Trend _1](https://user-images.githubusercontent.com/22498383/236554453-b6ee5e80-ad1c-455b-94ac-42922312152a.PNG)
 ![Burndown Trend _2](https://user-images.githubusercontent.com/22498383/236554458-d4fe8cb5-35c4-4c97-912b-78a27af48676.PNG)
 
 ## Dedicación del equipo
 
-## Evidencia de manejo de versiones 
+## Evidencia de manejo de versiones
 
 ![Control version_1](https://user-images.githubusercontent.com/22498383/236552621-a3cbbb43-bd9b-42af-a0db-96835fc598fe.PNG)
 ![Control version_2](https://user-images.githubusercontent.com/22498383/236552626-4211cd9b-2f76-4373-9109-be4ce368a9d1.PNG)
-
-
----------------------------------------------------------------------------
-
-## Sprint Review
-Durante el evento, el Equipo Scrum y las partes interesadas revisan lo que se hizo en el Sprint y los cambios que ocurrieron en el entorno. En el progreso, los aspectos generales del proyecto pasan a primer plano, como la definición del marco, las iteraciones y la planificación del repositorio. 
-Luego de la definición del marco de trabajo basado en SCRUM, con los roles definidos para cada integrante en el equipo y los acuerdos principales y sus políticas de trabajo.
-Asimismo, se enfatiza la identificación del problema a resolver y la definición del problema. 
-Se realizo una definicion del problema, el armado de un produck backlog definido con su jerarquia de epicas, historias de usuario y tareas con su respectiva priorizacion, estimacion y criterios de aceptacion.
-Ademas de un análisis exploratorio de mercado que incluye identificación de interesados con sus funcionalidades y estudio de competidores.
-
-
-## Sprint Retrospective
-Al finalizar la primera iteracion del proyecto logramos identificar varias conclusiones.
-En primer lugar estuvimos muy trancados al principio sobre como arrancar a trabajar, pero a medida que fue pasando el tiempo ya pudimos trabajar cada uno de forma independiente pasando status en las daily meeting.
-Para la proxima iteracion vamos a mejorar mucho la velocidad de trabajo del equipo ya que nos llevo gran tiempo aprender a utilizar las diferentes herramientas como el Azure DevOps y Clockify. Pero para la proxima iteracion ya vamos a tener practica con el uso de ellas.
-Al tener un equipo de trabajo tan pequeño es complicado poder estimar la capacidad de trabajo por sprint ya que son muchas las tareas que se deben realizar por cada iteracion.
-
