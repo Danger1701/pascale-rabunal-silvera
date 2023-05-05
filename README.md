@@ -269,14 +269,6 @@ Aquí nuestra lista de prioridades:
 
 ---------------------------------------------------------------------------
 
-## Sprint Review
-...
-
-## Sprint Retrospective
-...
-
----------------------------------------------------------------------------
-
 ## Product Backlog
 
 ![Backlog_1](https://user-images.githubusercontent.com/22498383/236547875-f4d31b4f-a68e-44f9-8b9d-375d02db5e10.png)
@@ -305,3 +297,21 @@ Aquí nuestra lista de prioridades:
 
 ![Control version_1](https://user-images.githubusercontent.com/22498383/236552621-a3cbbb43-bd9b-42af-a0db-96835fc598fe.PNG)
 ![Control version_2](https://user-images.githubusercontent.com/22498383/236552626-4211cd9b-2f76-4373-9109-be4ce368a9d1.PNG)
+
+
+---------------------------------------------------------------------------
+
+## Sprint Review
+Durante el evento, el Equipo Scrum y las partes interesadas revisan lo que se hizo en el Sprint y los cambios que ocurrieron en el entorno. En el progreso, los aspectos generales del proyecto pasan a primer plano, como la definición del marco, las iteraciones y la planificación del repositorio. 
+Luego de la definición del marco de trabajo basado en SCRUM, con los roles definidos para cada integrante en el equipo y los acuerdos principales y sus políticas de trabajo.
+Asimismo, se enfatiza la identificación del problema a resolver y la definición del problema. 
+Se realizo una definicion del problema, el armado de un produck backlog definido con su jerarquia de epicas, historias de usuario y tareas con su respectiva priorizacion, estimacion y criterios de aceptacion.
+Ademas de un análisis exploratorio de mercado que incluye identificación de interesados con sus funcionalidades y estudio de competidores.
+
+
+## Sprint Retrospective
+Al finalizar la primera iteracion del proyecto logramos identificar varias conclusiones.
+En primer lugar estuvimos muy trancados al principio sobre como arrancar a trabajar, pero a medida que fue pasando el tiempo ya pudimos trabajar cada uno de forma independiente pasando status en las daily meeting.
+Para la proxima iteracion vamos a mejorar mucho la velocidad de trabajo del equipo ya que nos llevo gran tiempo aprender a utilizar las diferentes herramientas como el Azure DevOps y Clockify. Pero para la proxima iteracion ya vamos a tener practica con el uso de ellas.
+Al tener un equipo de trabajo tan pequeño es complicado poder estimar la capacidad de trabajo por sprint ya que son muchas las tareas que se deben realizar por cada iteracion.
+
