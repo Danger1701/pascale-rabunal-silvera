@@ -273,12 +273,20 @@ Aquí nuestra lista de prioridades:
 
 ## Product Backlog
 
+![Backlog_1](https://user-images.githubusercontent.com/22498383/236547875-f4d31b4f-a68e-44f9-8b9d-375d02db5e10.png)
+![Backlog_2](https://user-images.githubusercontent.com/22498383/236547877-5b78bfd8-4ea9-4541-a49f-d7c2007f736b.png)
+![Backlog_3](https://user-images.githubusercontent.com/22498383/236547880-4dc2e19d-0958-4036-9f4c-e924e4ccc636.png)
+![Backlog_4](https://user-images.githubusercontent.com/22498383/236548102-154baac2-f37f-4215-93da-42b79daca7fa.png)
 
 ## Sprint Backlog
 
+![Sprint Backlog_1](https://user-images.githubusercontent.com/22498383/236549470-fd63c52a-21f1-4b5e-aebb-9710f3233d6e.PNG)
 
 ## Boards
 
+![Boards_1](https://user-images.githubusercontent.com/22498383/236550850-194c9084-949b-461b-b58b-f782cffaab46.PNG)
+![Boards_2](https://user-images.githubusercontent.com/22498383/236550856-5403aeb1-04c5-4ae7-8bfe-65dfdefc0aaf.PNG)
+![Boards_3](https://user-images.githubusercontent.com/22498383/236550858-24b14bef-bda2-4b0d-99f1-041a35c9dd16.PNG)
+
 
 ## Dedicación del equipo
-
