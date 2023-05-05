@@ -282,6 +282,10 @@ Aquí nuestra lista de prioridades:
 
 ## Boards
 
+![Boards_1](https://user-images.githubusercontent.com/22498383/236550850-194c9084-949b-461b-b58b-f782cffaab46.PNG)
+![Boards_2](https://user-images.githubusercontent.com/22498383/236550856-5403aeb1-04c5-4ae7-8bfe-65dfdefc0aaf.PNG)
+![Boards_3](https://user-images.githubusercontent.com/22498383/236550858-24b14bef-bda2-4b0d-99f1-041a35c9dd16.PNG)
+
 
 ## Dedicación del equipo
 
