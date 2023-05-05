@@ -172,11 +172,12 @@ Algunas de las funcionalidades que surgen de la entrevista son:
     
 ## Perfiles de Posibles Usuarios
 
-![Usuario1](https://user-images.githubusercontent.com/62801065/236335161-c9431ba6-4d6e-4876-bbca-88eee327d7ee.png)
+![Usuario1](https://user-images.githubusercontent.com/62801065/236575902-e30bc2b9-067d-4d85-9c9b-1541c4224368.png)
 
-![Usuario2](https://user-images.githubusercontent.com/62801065/236335188-9a79d272-c1dc-40c4-b3e7-3939b585d101.png)
+![Usuario2](https://user-images.githubusercontent.com/62801065/236575919-30a765c7-f775-4ac2-b5bf-5252a500910f.png)
 
-![Usuarios3](https://user-images.githubusercontent.com/62801065/236335200-11015d38-40e9-447b-b5f0-3caa7943b6f5.png)
+![Usuario3](https://user-images.githubusercontent.com/62801065/236575956-66a867e2-6256-478f-9c6a-d7e9f9edece7.png)
+
 
 ### Estudio de competidores
 
