@@ -278,6 +278,7 @@ Aquí nuestra lista de prioridades:
 
 ## Sprint Backlog
 
+![Sprint Backlog_1](https://user-images.githubusercontent.com/22498383/236549470-fd63c52a-21f1-4b5e-aebb-9710f3233d6e.PNG)
 
 ## Boards
 
