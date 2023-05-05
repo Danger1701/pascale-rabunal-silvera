@@ -286,6 +286,11 @@ Aquí nuestra lista de prioridades:
 ![Boards_2](https://user-images.githubusercontent.com/22498383/236550856-5403aeb1-04c5-4ae7-8bfe-65dfdefc0aaf.PNG)
 ![Boards_3](https://user-images.githubusercontent.com/22498383/236550858-24b14bef-bda2-4b0d-99f1-041a35c9dd16.PNG)
 
+## Burndown Trend 
+
+![Burndown Trend _1](https://user-images.githubusercontent.com/22498383/236554453-b6ee5e80-ad1c-455b-94ac-42922312152a.PNG)
+![Burndown Trend _2](https://user-images.githubusercontent.com/22498383/236554458-d4fe8cb5-35c4-4c97-912b-78a27af48676.PNG)
+
 ## Dedicación del equipo
 
 ## Evidencia de manejo de versiones 
