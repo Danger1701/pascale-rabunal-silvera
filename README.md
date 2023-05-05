@@ -81,3 +81,219 @@ Trabajaremos sobre “develop”, donde cada miembro creara sus ramas y trabaja 
 Al finalizar cada sprint “develop” será mergeada a “main”.
 
 ---------------------------------------------------------------------------
+
+## Identificación del problema a resolver
+
+### Características deseadas de la población uruguaya
+
+Se realizan entrevistas a potenciales interesados en el uso de la aplicación a desarrollar.
+Se les informa de las características que tendrá el MVP y de la interacción con los entrevistados surgen las siguiente comentarios
+Es importante aclarar, que estas características son las deseadas por los entrevistados, no significa un compromiso para su desarrollo.
+
+**1. Variedad de canchas y deportes disponibles:**
+Según lo expresado por los entrevistados es importante que la aplicación ofrezca una amplia variedad de canchas deportivas y deportes para reservar.
+Para priorizar esta característica, deberemos realizar encuestas para conocer los deportes y tipos de canchas que los usuarios más frecuentan y desean reservar.
+Para validarla, deberíamos hacer pruebas de usabilidad en las que los usuarios busquen y reserven canchas y deportes para comprobar que la aplicación ofrece suficientes opciones.
+
+**2. Facilidad de uso:**
+La aplicación debe ser fácil y amigable de usar, con una interfaz intuitiva que permita reservar canchas en pocos pasos.
+Para priorizarlo, deberían realizarse pruebas de usabilidad en las que los usuarios interactúen con la aplicación y reporten cualquier dificultad o confusión.
+Para validarla, se deberán hacer pruebas con usuarios reales y medir su tiempo de interacción con la aplicación y la tasa de éxito de reservas.
+
+**3. Pago en línea seguro:**
+La aplicación debe ofrecer opciones de pago en línea seguras y confiables, para evitar el riesgo de fraudes y garantizar la seguridad de los usuarios.
+Para priorizar esta característica, se debería realizar encuestas para conocer las preferencias de los usuarios respecto a los métodos de pago en línea.
+Para validarla, deberíamos hacer pruebas de seguridad en las que se compruebe que los datos de pago están protegidos y encriptados.
+
+**4. Comentarios y valoraciones de otros usuarios:**
+La aplicación podría ofrecer un sistema de comentarios y valoraciones de otros usuarios, para ayudar a los usuarios a elegir las mejores canchas y a mejorar la calidad del servicio.
+Para priorizarlo, deberían realizarse pruebas en las que los usuarios interactúen y así conocer si los usuarios valoran y utilizan este tipo de información.
+Para validarla, podrías hacer pruebas con usuarios en las que se compruebe que los comentarios y valoraciones son útiles y confiables.
+
+**5. Recordatorios y notificaciones:**
+La aplicación podría enviar recordatorios y notificaciones a los usuarios para recordarles sus reservas y para informarles sobre nuevas ofertas y descuentos.
+Para priorizarlo, deberían realizarse pruebas en las que los usuarios interactúen y así conocer si los usuarios valoran y utilizan este tipo de información.
+Para validarla, podrías hacer pruebas con usuarios en las que se compruebe que las notificaciones son útiles y no resultan molestas o intrusivas.
+
+### Identificación de interesados
+
+Se realizan entrevistas a potenciales interesados en el uso de la aplicación a desarrollar.
+Se les informa de las características que tendrá el MVP y de la interacción con los entrevistados surgen las siguiente comentarios
+Es importante aclarar, que estas características son las deseadas por los entrevistados, no significa un compromiso para su desarrollo.
+
+**1. Usuarios finales:**
+Los usuarios finales son las personas que utilizarán la aplicación para reservar canchas deportivas.
+Algunas de las funcionalidades que surgen de la entrevista son:
+
+    - Búsqueda de canchas deportivas por ubicación y deporte , disopnibilidad.
+    - Reserva de canchas deportivas en tiempo real.
+    - Cancelación de reservas.
+    - Pago en línea seguro.
+    - Valoraciones y comentarios sobre otros usuarios , canchas.
+    - Calificación y reseñas de las canchas y proveedores de servicios deportivos.
+    -Comunicación en tiempo real con el propietario de la cancha o otros usuarios.
+    - Notificaciones y recordatorios de reservas y ofertas.
+
+**2. Propietarios de canchas deportivas:**
+Los propietarios de canchas deportivas podrían estar interesados en la aplicación para promocionar sus instalaciones y aumentar sus ingresos.
+Algunas de las funcionalidades que surgen de la entrevista son:
+
+    - Registro y publicación de sus canchas deportivas en la aplicación.
+    - Edición de información y precios de sus canchas deportivas.
+    - Gestion de precios y descuentos disponibles
+    - Gestión de reservas y cancelaciones.
+    - Pago en línea seguro.
+    - Comunicación en tiempo real con los usuarios finales.
+    - Anuncios y promociones de sus canchas deportivas.
+
+**3. Organizadores de eventos deportivos:**
+Los organizadores de eventos deportivos podrían estar interesados en la aplicación para gestionar y promocionar sus eventos.
+Algunas de las funcionalidades que surgen de la entrevista son:
+
+    - Publicación y promoción de sus eventos deportivos en la aplicación.
+    - Poder conocer datos estadisticos de los usuarios o posibles interesados.
+    - Integracion con redes sociales como Instagram o Facebook.
+    - Gestión de reservas y cancelaciones de sus eventos deportivos.
+    - Pago en línea seguro.
+    - Valoraciones y comentarios de los participantes.
+    - Anuncios y promociones de sus eventos deportivos.
+
+**4. Entrenadores y clubes deportivos:**
+Los entrenadores y clubes deportivos podrían estar interesados en la aplicación para gestionar y promocionar sus entrenamientos y actividades.
+Algunas de las funcionalidades que surgen de la entrevista son:
+
+    - Publicación y promoción de sus entrenamientos y actividades en la aplicación.
+    - Gestión de reservas y cancelaciones de sus entrenamientos y actividades.
+    - Pago en línea seguro.
+    - Valoraciones y comentarios de los participantes.
+    - Anuncios y promociones de sus entrenamientos y actividades.
+    
+## Perfiles de Posibles Usuarios
+
+![Usuario1](https://user-images.githubusercontent.com/62801065/236335161-c9431ba6-4d6e-4876-bbca-88eee327d7ee.png)
+
+![Usuario2](https://user-images.githubusercontent.com/62801065/236335188-9a79d272-c1dc-40c4-b3e7-3939b585d101.png)
+
+![Usuarios3](https://user-images.githubusercontent.com/62801065/236335200-11015d38-40e9-447b-b5f0-3caa7943b6f5.png)
+
+### Estudio de competidores
+
+Se realiza el análisis de posibles competidores que se encuentran en el mercado uruguayo.
+
+**1. Wonasports**
+    <https://wonasports.com/>  
+    Es un sistema que facilita el acceso a toda la oferta del deporte amateur en una misma plataforma.
+    Algunas de sus principales funcionalidades son:  
+
+    - Búsqueda y reserva de canchas deportivas, los usuarios pueden buscar canchas deportivas cercanas y reservar su horario preferido directamente a través de la plataforma.
+    - Gestión de complejos deportivos, Wonasports ofrece un software completo de gestión para los complejos deportivos, lo que les permite administrar y programar sus canchas, y aceptar reservas en línea.
+    - Conexión entre jugadores, la plataforma permite a los jugadores conectarse entre sí, unirse a equipos y participar en ligas y torneos.
+    - Pagos en línea, los usuarios pueden realizar pagos en línea de forma segura y fácil a través de la plataforma
+
+![Wonasports_1](https://user-images.githubusercontent.com/22498383/235555673-283a831c-035b-4e76-a30d-cfedbbb493d7.jpeg)
+
+**2. Canchea**
+    <https://canchea.com.uy/>  
+    Es un sitio web uruguayo que se dedica a la reserva de canchas de fútbol.
+    A continuación se describen algunas de sus funcionalidades:  
+
+    - Reserva de canchas: los usuarios pueden encontrar canchas disponibles en Montevideo y reservarlas directamente desde la página web.
+    - Información de complejos deportivos: Canchea.com.uy cuenta con información detallada de los complejos deportivos que ofrecen canchas de fútbol en Montevideo, incluyendo horarios, servicios (como barbacoa, parrillero, cantina, estacionamiento, entre otros), y fotografías.
+    - Promoción de complejos deportivos: los complejos deportivos pueden agregar su información al sitio web para ser promocionados en la página y ganar mayor visibilidad en las búsquedas relacionadas con el alquiler de canchas deportivas.
+    - Se realizan menciones periódicas en redes sociales y correos electrónicos a los complejos agregados, lo que aumenta la audiencia y las consultas de los usuarios.
+
+![Canchea_1](https://user-images.githubusercontent.com/22498383/235555718-a9a253a9-3e81-4b5b-8e07-417ddcbb92ee.jpeg)
+![Canchea_2](https://user-images.githubusercontent.com/22498383/235555720-fabb55e9-80ee-42eb-9278-15246425266b.jpeg)
+![Canchea_3](https://user-images.githubusercontent.com/22498383/235555722-85887a83-4e60-4895-9f5f-f4fe75371384.jpeg)
+
+**3. Alquilatucancha**
+    <https://alquilatucancha.com/>  
+    Alquila Tu Cancha es una plataforma en línea que permite a los usuarios reservar canchas deportivas en complejos deportivos a través de Internet. También ofrece una solución de gestión para los propietarios de complejos deportivos que les permite gestionar sus instalaciones en línea.
+    Algunas de sus principales funcionalidades son:  
+
+    - La plataforma ofrece una serie de funciones para los usuarios, como la capacidad de reservar una cancha deportiva en línea y acceder a información detallada sobre los complejos deportivos.
+    - También permite a los usuarios consultar los precios y los horarios de las canchas disponibles.
+    - Para los propietarios de complejos deportivos, Alquila Tu Cancha ofrece una solución de gestión en línea que permite la reserva de canchas deportivas y la administración de las reservas.
+    - La plataforma unifica toda la gestión de los complejos deportivos, lo que permite a los propietarios de los mismos acceder a información en tiempo real sobre la disponibilidad de las canchas y gestionar las reservas en línea.
+
+![Alquilatucancha_1](https://user-images.githubusercontent.com/22498383/235555733-e16d11e5-194f-4522-980f-3659d6c64fb9.jpeg)
+![Alquilatucancha_2](https://user-images.githubusercontent.com/22498383/235555736-d4c459cb-21fc-41ee-8f7f-3dc60c327be8.jpeg)
+![Alquilatucancha_4](https://user-images.githubusercontent.com/22498383/235555739-78a6d50e-7d9c-4de6-9599-fd9cb74de110.jpeg)
+
+**4. Quierojugar**
+    <https://quierojugar.com.uy/>  
+     Algunas de sus funcionalidades más destacadas son:  
+
+    - Posibilidad de buscar canchas deportivas disponibles para reservar en la zona deseada.
+    - Opción de realizar reservas y pagos en línea de forma segura.
+    - Información detallada sobre las canchas deportivas, incluyendo fotos, ubicación y características.
+    - Administración de reservas y pagos a través de una cuenta personal.
+    - Acceso a promociones y descuentos exclusivos.
+
+![Quierojugar_1](https://user-images.githubusercontent.com/22498383/235555763-71431ca7-eb4d-4dff-a842-4f19c520fa61.jpeg)
+![Quierojugar_2](https://user-images.githubusercontent.com/22498383/235555766-fa1200ed-b005-458f-b301-c8678b36531d.jpeg)
+
+### Comparación de competidores
+
+Hemos realizado un análisis comparativo, Wonasports, Canchea, Alquilatucancha y Quierojugar en función a sus funcionalidades, servicios y características teniendo como objetivo la población de Uruguay.
+
+Comenzando con **Wonasports**, se trata de un software de gestión completo que busca facilitar el acceso al deporte amateur, conectando a posibles clientes con instituciones y actividades deportivas que se adapten a sus necesidades y preferencias.  
+En cuanto a sus características y servicios, Wonasports ofrece la gestión de reservas y pagos, así como la administración de membresías y clases. También incluye un sistema de notificaciones y un panel de control para que los administradores puedan gestionar su centro deportivo.
+
+**Canchea**, por su parte, es una plataforma uruguaya (enfocado en el fútbol uruguayo) de reserva de canchas de fútbol en línea, que permite a los usuarios elegir la cancha, la hora y la fecha que desean para jugar. Canchea se enfoca en ofrecer una experiencia de usuario rápida y sencilla, además de contar con una variedad de opciones de canchas.  
+Entre sus características y servicios se encuentran la publicación de noticias, resultados de partidos, estadísticas de jugadores y equipos, además de una sección de opinión y análisis. Cancha.com.uy no ofrece funcionalidades para la gestión de centros deportivos o reservas.
+
+**Alquilatucancha** es otra plataforma uruguaya de reserva de canchas de fútbol en línea. Ofrecen una amplia variedad de canchas y servicios, como canchas con césped sintético, vestuarios y estacionamiento. También permiten hacer reservas a través de su aplicación móvil, lo que resulta muy cómodo para los usuarios.  
+Algunas de sus características son la posibilidad de reservar canchas en línea, pagar en línea y recibir confirmación inmediata de la reserva. También incluye un sistema de evaluación de las canchas por parte de los usuarios.
+
+Finalmente, **Quierojugar** es una plataforma que permite reservar canchas de fútbol, básquetbol y volley en Uruguay. Ofrecen una amplia variedad de opciones y permiten hacer reservas en línea. Además, su sitio web es fácil de usar y ofrece la posibilidad de pagar en línea.  
+Entre sus características y servicios se encuentran la posibilidad de reservar canchas en línea, pagar en línea y recibir confirmación inmediata de la reserva.
+
+Teniendo en cuenta el objetivo de atender a la población de Uruguay, podemos señalar que todas estas plataformas se enfocan en ofrecer una experiencia de usuario sencilla y rápida al momento de reservar canchas deportivas en línea. Sin embargo, es importante señalar que Wonasports parece ser la única plataforma que se enfoca en la gestión deportiva en general, lo que puede incluir reservas de canchas, pero también la organización de torneos y la gestión de ligas.  
+
+En cuanto a la variedad de opciones de canchas y servicios, Alquilatucancha es la plataforma que ofrece una mayor cantidad de opciones, como canchas con césped sintético, vestuarios y estacionamiento. No obstante, Canchea y Quierojugar también ofrecen una buena variedad de opciones en términos de canchas deportivas.  
+
+En resumen, si bien todas estas plataformas comparten un objetivo común de facilitar la reserva de canchas deportivas en línea, cada una tiene características y enfoques únicos.
+
+### Priorización de funcionalidades basadas en la importancia del negocio
+
+Al desarrollar una aplicación móvil para reservar canchas deportivas, es importante priorizar las funcionalidades más críticas para el negocio, teniendo en cuenta que el equipo está formado por 3 personas.  
+Aquí nuestra lista de prioridades:  
+
+1. **Registrar nuevo usuario**: Es importante permitir que nuevos usuarios se registren en la aplicación y accedan a sus características.
+2. **Login de usuario**: Esto es importante para garantizar la seguridad de los datos del usuario y permitir una experiencia personalizada.
+3. **Edición de usuario**: Esto es importante para garantizar la integridad de los datos del usuario y permitir una experiencia personalizada.
+4. **Buscar canchas para reservar utilizando filtros**: Esta es una funcionalidad clave, ya que permitirá a los usuarios encontrar fácilmente las canchas que mejor se adapten a sus necesidades.
+5. **Notificaciones de reserva y cancelación**: Es importante mantener a los usuarios informados de cualquier cambio en sus reservas para evitar confusiones y malentendidos.
+6. **Modo Juego Aleatorio**: Esta es una función interesante para permitir a los usuarios encontrar compañeros de juego, pero puede ser menos crítica que otras funciones y puede requerir más tiempo y recursos para desarrollarla.
+
+---------------------------------------------------------------------------
+
+## Product Backlog
+
+![Backlog_1](https://user-images.githubusercontent.com/22498383/236547875-f4d31b4f-a68e-44f9-8b9d-375d02db5e10.png)
+![Backlog_2](https://user-images.githubusercontent.com/22498383/236547877-5b78bfd8-4ea9-4541-a49f-d7c2007f736b.png)
+![Backlog_3](https://user-images.githubusercontent.com/22498383/236547880-4dc2e19d-0958-4036-9f4c-e924e4ccc636.png)
+![Backlog_4](https://user-images.githubusercontent.com/22498383/236548102-154baac2-f37f-4215-93da-42b79daca7fa.png)
+
+## Sprint Backlog
+
+![Sprint Backlog_1](https://user-images.githubusercontent.com/22498383/236549470-fd63c52a-21f1-4b5e-aebb-9710f3233d6e.PNG)
+
+## Boards
+
+![Boards_1](https://user-images.githubusercontent.com/22498383/236550850-194c9084-949b-461b-b58b-f782cffaab46.PNG)
+![Boards_2](https://user-images.githubusercontent.com/22498383/236550856-5403aeb1-04c5-4ae7-8bfe-65dfdefc0aaf.PNG)
+![Boards_3](https://user-images.githubusercontent.com/22498383/236550858-24b14bef-bda2-4b0d-99f1-041a35c9dd16.PNG)
+
+## Burndown Trend 
+
+![Burndown Trend _1](https://user-images.githubusercontent.com/22498383/236554453-b6ee5e80-ad1c-455b-94ac-42922312152a.PNG)
+![Burndown Trend _2](https://user-images.githubusercontent.com/22498383/236554458-d4fe8cb5-35c4-4c97-912b-78a27af48676.PNG)
+
+## Dedicación del equipo
+
+## Evidencia de manejo de versiones 
+
+![Control version_1](https://user-images.githubusercontent.com/22498383/236552621-a3cbbb43-bd9b-42af-a0db-96835fc598fe.PNG)
+![Control version_2](https://user-images.githubusercontent.com/22498383/236552626-4211cd9b-2f76-4373-9109-be4ce368a9d1.PNG)
