@@ -271,6 +271,14 @@ Aquí nuestra lista de prioridades:
 
 ---------------------------------------------------------------------------
 
+## Sprint Review
+...
+
+## Sprint Retrospective
+...
+
+---------------------------------------------------------------------------
+
 ## Product Backlog
 
 ![Backlog_1](https://user-images.githubusercontent.com/22498383/236547875-f4d31b4f-a68e-44f9-8b9d-375d02db5e10.png)
