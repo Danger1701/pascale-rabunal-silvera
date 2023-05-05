@@ -271,6 +271,10 @@ Aquí nuestra lista de prioridades:
 
 ## Product Backlog
 
+![Backlog_1](https://user-images.githubusercontent.com/22498383/236547875-f4d31b4f-a68e-44f9-8b9d-375d02db5e10.png)
+![Backlog_2](https://user-images.githubusercontent.com/22498383/236547877-5b78bfd8-4ea9-4541-a49f-d7c2007f736b.png)
+![Backlog_3](https://user-images.githubusercontent.com/22498383/236547880-4dc2e19d-0958-4036-9f4c-e924e4ccc636.png)
+![Backlog_4](https://user-images.githubusercontent.com/22498383/236548102-154baac2-f37f-4215-93da-42b79daca7fa.png)
 
 ## Sprint Backlog
 
