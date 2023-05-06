@@ -312,6 +312,28 @@ Al tener un equipo de trabajo tan pequeño es complicado poder estimar la capaci
 
 ## Dedicación del equipo
 
+### Tags creados
+
+![Tags](https://user-images.githubusercontent.com/22498383/236591600-1e108cc7-ee0d-4065-a5bc-49ee706ae0b9.PNG)
+
+### Dedicacion Maximiliano Pascale
+
+![Horas_Pascale](https://user-images.githubusercontent.com/22498383/236591596-f508cb0b-3dae-4be9-b223-4c462452f674.PNG)
+
+### Dedicacion Juan Manuel Rabuñal 
+
+![Horas_Rabunal](https://user-images.githubusercontent.com/22498383/236591597-7607ca9e-ff3b-4fe1-9b06-3a32a4001e69.PNG)
+
+### Dedicacion Sebastian Silveira
+
+![Horas_Silvera](https://user-images.githubusercontent.com/22498383/236591599-6e142480-4708-491f-b0fd-33d7e6f15b77.PNG)
+
+### Dedicacion equipo
+
+![Horas_Equipo](https://user-images.githubusercontent.com/22498383/236591592-a63eb3ac-d1d9-4086-a294-52a01bdeab12.PNG)
+
+![Horas_Equipo_2](https://user-images.githubusercontent.com/22498383/236591595-a0dc4780-b792-40be-a9a2-8dab85addd16.PNG)
+
 ## Evidencia de manejo de versiones
 
 ![Control version_1](https://user-images.githubusercontent.com/22498383/236552621-a3cbbb43-bd9b-42af-a0db-96835fc598fe.PNG)
