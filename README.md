@@ -288,12 +288,16 @@ Al tener un equipo de trabajo tan pequeño es complicado poder estimar la capaci
 
 ## Product Backlog
 
+Evidencia del Product Backlog
+
 ![Backlog_1](https://user-images.githubusercontent.com/22498383/236547875-f4d31b4f-a68e-44f9-8b9d-375d02db5e10.png)
 ![Backlog_2](https://user-images.githubusercontent.com/22498383/236547877-5b78bfd8-4ea9-4541-a49f-d7c2007f736b.png)
 ![Backlog_3](https://user-images.githubusercontent.com/22498383/236547880-4dc2e19d-0958-4036-9f4c-e924e4ccc636.png)
 ![Backlog_4](https://user-images.githubusercontent.com/22498383/236548102-154baac2-f37f-4215-93da-42b79daca7fa.png)
 
 ## Sprint Backlog
+
+Evidencia del Sprint Backlog
 
 ![Sprint Backlog_1](https://user-images.githubusercontent.com/22498383/236549470-fd63c52a-21f1-4b5e-aebb-9710f3233d6e.PNG)
 
@@ -310,7 +314,37 @@ Al tener un equipo de trabajo tan pequeño es complicado poder estimar la capaci
 
 ## Dedicación del equipo
 
+### Tags creados
+
+Tags creados siguiendo los principios del Proceso de software genérico
+
+![Tags](https://user-images.githubusercontent.com/22498383/236591600-1e108cc7-ee0d-4065-a5bc-49ee706ae0b9.PNG)
+
+### Dedicación por integrantes del equipo
+
+#### Maximiliano Pascale
+
+![Horas_Pascale](https://user-images.githubusercontent.com/22498383/236591596-f508cb0b-3dae-4be9-b223-4c462452f674.PNG)
+
+#### Juan Manuel Rabuñal
+
+![Horas_Rabunal](https://user-images.githubusercontent.com/22498383/236591597-7607ca9e-ff3b-4fe1-9b06-3a32a4001e69.PNG)
+
+#### Sebastian Silveira
+
+![Horas_Silvera](https://user-images.githubusercontent.com/22498383/236591599-6e142480-4708-491f-b0fd-33d7e6f15b77.PNG)
+
+### Dedicación equipo
+
+Dedicación de horas acumuladas por el equipo.
+
+![Horas_Equipo](https://user-images.githubusercontent.com/22498383/236591592-a63eb3ac-d1d9-4086-a294-52a01bdeab12.PNG)
+
+![Horas_Equipo_2](https://user-images.githubusercontent.com/22498383/236591595-a0dc4780-b792-40be-a9a2-8dab85addd16.PNG)
+
 ## Evidencia de manejo de versiones
+
+A continuación se demuestra evidencia del uso de los principios de manejo de versiones adoptados por el equipo.
 
 ![Control version_1](https://user-images.githubusercontent.com/22498383/236552621-a3cbbb43-bd9b-42af-a0db-96835fc598fe.PNG)
 ![Control version_2](https://user-images.githubusercontent.com/22498383/236552626-4211cd9b-2f76-4373-9109-be4ce368a9d1.PNG)
