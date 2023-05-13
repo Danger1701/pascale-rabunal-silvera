@@ -8,7 +8,7 @@
 
 ### Equipo 5 - Mini proyecto
 
-### Estudiantes: Juan Manuel Rabuñal - Maximiliano Pascale - Sebastian Silveira
+### Estudiantes: Juan Manuel Rabuñal - Maximiliano Pascale - Sebastian Silvera
 
 ---------------------------------------------------------------------------
 
@@ -22,3 +22,57 @@
 
 ---------------------------------------------------------------------------
 
+## Propuestas de solución
+
+### Implementación de trabajo en Crazy 8s - Reserva de Canchas de Fútbol
+
+#### Equipo
+
+Product Owner: Responsable de definir las necesidades del negocio y los objetivos del proyecto.
+Scrum Master: Encargado de facilitar el proceso y asegurar que se sigan los principios y prácticas ágiles.
+Desarrollador: Encargado de diseñar y desarrollar la aplicación móvil.
+
+#### Preparación
+
+El Scrum Master explica las reglas del Crazy 8s al equipo:
+
+- Se establece un tiempo límite de 8 minutos para generar ideas y dibujar soluciones.
+
+Pantallas para generar:
+
+- Crear el Login de usuario
+- Crear el Registro de nuevo usuarios
+- Crear la Edición de los usuarios registrados
+- Crear la Búsqueda de canchas para permitir la reserva.
+- Crear la Reserva de canchas para permitir el uso de las mismas
+
+Establecimiento de una meta:
+
+- El Product Owner establece una meta clara y específica: "Generar ideas para mejorar la experiencia de reserva de canchas".
+
+#### Sesión de Crazy 8s
+
+Se inicia el temporizador de 8 minutos y cada miembro del equipo genera ideas rápidas y las dibuja en papel.
+El Product Owner se centra en ideas relacionadas con la experiencia del usuario y la satisfacción del cliente.
+El desarrollador se enfoca en soluciones técnicas y la viabilidad de implementación.
+
+Una vez finalizada la sesión de Crazy 8s, cada miembro del equipo muestra y explica sus ideas al resto del equipo.
+
+##### Bosquejo Maximiliano Pascale
+
+
+
+##### Bosquejo Juan Manuel Rabuñal
+
+
+
+##### Bosquejo Sebastian Silvera
+
+
+
+#### Discusión y selección
+
+El equipo discute las ideas presentadas y evalúa su valor, viabilidad y alineación con los objetivos del proyecto.
+Se seleccionan las ideas más prometedoras para su desarrollo en el MVP de la aplicación, la cual se verá reflejada en el desarrollo del prototipo.
+El Product Owner y el Scrum Master colaboran en la síntesis de las ideas seleccionadas y las priorizan en función de su valor y esfuerzo.
+El desarrollador participa en la planificación del siguiente paso y fundamentalmente en el desarrollo del prototipo.
