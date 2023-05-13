@@ -52,27 +52,35 @@ Establecimiento de una meta:
 
 #### Sesión de Crazy 8s
 
-Se inicia el temporizador de 8 minutos y cada miembro del equipo genera ideas rápidas y las dibuja en papel.
-El Product Owner se centra en ideas relacionadas con la experiencia del usuario y la satisfacción del cliente.
-El desarrollador se enfoca en soluciones técnicas y la viabilidad de implementación.
+Se inicia el temporizador de 8 minutos y cada miembro del equipo genera ideas rápidas y las dibuja en papel.  
+
+El Product Owner se centra en ideas relacionadas con la experiencia del usuario y la satisfacción del cliente.  
+
+El desarrollador se enfoca en soluciones técnicas y la viabilidad de implementación.  
+
 
 Una vez finalizada la sesión de Crazy 8s, cada miembro del equipo muestra y explica sus ideas al resto del equipo.
 
 ##### Bosquejo Maximiliano Pascale
 
-
+![Bosquejo_Pascale](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/d07484cf-b48a-410a-8a35-a4dc7523a950)
 
 ##### Bosquejo Juan Manuel Rabuñal
 
-
+![Bosquejo_Rabunal_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/90cd4e47-334f-44f6-bd0f-f45ec1d1bee6)
+![Bosquejo_Rabunal_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/e7ae4bac-5ee2-4703-b0f9-066919654407)
 
 ##### Bosquejo Sebastian Silvera
 
-
+![Bosquejo_Silvera_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/e1a15cd8-0c5f-4437-a5ca-d788339ddcda)
+![Bosquejo_Silvera_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/8b9ee042-9dbf-4154-a16b-0fc9049d4f74)
 
 #### Discusión y selección
 
-El equipo discute las ideas presentadas y evalúa su valor, viabilidad y alineación con los objetivos del proyecto.
-Se seleccionan las ideas más prometedoras para su desarrollo en el MVP de la aplicación, la cual se verá reflejada en el desarrollo del prototipo.
-El Product Owner y el Scrum Master colaboran en la síntesis de las ideas seleccionadas y las priorizan en función de su valor y esfuerzo.
-El desarrollador participa en la planificación del siguiente paso y fundamentalmente en el desarrollo del prototipo.
+El equipo discute las ideas presentadas y evalúa su valor, viabilidad y alineación con los objetivos del proyecto.  
+
+Se seleccionan las ideas más prometedoras para su desarrollo en el MVP de la aplicación, la cual se verá reflejada en el desarrollo del prototipo.  
+
+El Product Owner y el Scrum Master colaboran en la síntesis de las ideas seleccionadas y las priorizan en función de su valor y esfuerzo.  
+
+El desarrollador participa en la planificación del siguiente paso y fundamentalmente en el desarrollo del prototipo.  
