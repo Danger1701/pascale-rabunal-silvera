@@ -83,4 +83,23 @@ Se seleccionan las ideas más prometedoras para su desarrollo en el MVP de la ap
 
 El Product Owner y el Scrum Master colaboran en la síntesis de las ideas seleccionadas y las priorizan en función de su valor y esfuerzo.  
 
-El desarrollador participa en la planificación del siguiente paso y fundamentalmente en el desarrollo del prototipo.  
+El desarrollador participa en la planificación del siguiente paso y fundamentalmente en el desarrollo del prototipo. 
+
+#### Prototipos Registro Usuario:
+
+Presentacion Registro de Usuario:
+![Presentacion - Copy (2)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/bcde80bd-50cb-4555-b78d-649ef3cc8e51)
+
+Caso Exitoso:
+![Presentacion](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/41e19459-bc72-4ba8-adfe-bfc5a65eb268)
+
+Mensaje de Error:
+![Presentacion - Copy (3)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/a41cf6d9-41cf-492a-951b-5fcb2d8747f7)
+Mensaje de Error:
+![Presentacion - Copy (4)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/22abeebd-0cff-497e-b01b-eb4aeb2e142d)
+Mensaje de Error:
+![Presentacion - Copy (5)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b67d7086-0740-4ac0-8b34-497276f0c229)
+Mensaje de Error:
+![Presentacion - Copy (7)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3855e4f0-e883-49a5-a83a-84e690df1853)
+Mensaje de Error:
+![Presentacion - Copy](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/5ea5becd-38f6-41cc-b286-1e7226f3d88d)
