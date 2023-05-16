@@ -84,3 +84,20 @@ Se seleccionan las ideas más prometedoras para su desarrollo en el MVP de la ap
 El Product Owner y el Scrum Master colaboran en la síntesis de las ideas seleccionadas y las priorizan en función de su valor y esfuerzo.  
 
 El desarrollador participa en la planificación del siguiente paso y fundamentalmente en el desarrollo del prototipo.  
+
+#### Prototipos 
+
+Pantalla de Presentacion ,  previa al login del user
+![Presentacion](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/86aba527-3b05-49ba-baab-fa8d2313e89f)
+
+Login Usuario
+![Login](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/e2bff46f-bded-41ca-97f2-0f228b969bd3)
+
+Login Error:
+![ErrorRsn1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/1adfa12f-c2fd-4e32-98c8-070ba6a4d3ce)
+
+Login Error: 
+![Error2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/e04bf227-fa2e-4487-b2df-cd18052f9cc6)
+
+
+
