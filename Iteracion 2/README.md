@@ -95,12 +95,12 @@ Caso Exitoso:
 
 Mensajes de Error:
 ![Presentación - Copy (3)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/a41cf6d9-41cf-492a-951b-5fcb2d8747f7)
-
+Mensajes de Error:
 ![Presentación - Copy (4)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/22abeebd-0cff-497e-b01b-eb4aeb2e142d)
-
+Mensajes de Error:
 ![Presentación - Copy (5)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b67d7086-0740-4ac0-8b34-497276f0c229)
-
+Mensajes de Error:
 ![Presentación - Copy (7)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3855e4f0-e883-49a5-a83a-84e690df1853)
-
+Mensajes de Error:
 ![Presentación - Copy](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/5ea5becd-38f6-41cc-b286-1e7226f3d88d)
 
