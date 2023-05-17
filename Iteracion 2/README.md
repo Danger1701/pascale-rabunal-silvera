@@ -86,6 +86,10 @@ El desarrollador participa en la planificación del siguiente paso y fundamental
 
 #### Prototipos
 
+Se realiza el prototipo de las pantallas planificadas en este sprint. 
+
+Este prototipo inicial, tiene pendiente la validación con usuarios y con el cliente por el PO (los ajustes propuesto por usuarios y cliente lo expondremos mas adelante en este documento).
+
 ##### Prototipos Login Usuario
 
 | Presentación |  Login Usuario |
