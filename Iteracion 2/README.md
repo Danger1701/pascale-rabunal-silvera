@@ -22,6 +22,16 @@
 
 ---------------------------------------------------------------------------
 
+## Product Backlog
+
+Estado del product backlog al finalizar la iteración 2
+
+## Sprint Backlog
+
+Evidencia del Sprint Backlog
+
+---------------------------------------------------------------------------
+
 ## Propuestas de solución
 
 ### Brainstorming de nombres para la app
