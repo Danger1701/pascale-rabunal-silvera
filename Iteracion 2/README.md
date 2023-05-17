@@ -90,26 +90,26 @@ El desarrollador participa en la planificación del siguiente paso y fundamental
 
 | Presentación |  Login Usuario |
 |--------|--------|
-| ![Presentacion](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/86aba527-3b05-49ba-baab-fa8d2313e89f) |
+| ![Presentacion](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/86aba527-3b05-49ba-baab-fa8d2313e89f)
 | ![Login](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/e2bff46f-bded-41ca-97f2-0f228b969bd3) |
 | Login Error datos | Login Error reintentos |
 |--------|--------|
-| ![Error datos](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/1adfa12f-c2fd-4e32-98c8-070ba6a4d3ce) |
+| ![Error datos](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/1adfa12f-c2fd-4e32-98c8-070ba6a4d3ce)
 | ![Error reintentos](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/e04bf227-fa2e-4487-b2df-cd18052f9cc6) |
 
 ##### Prototipos Registro Usuario
 
 |  Presentación Registro de Usuario | Caso Exitoso |
 |--------|--------|
-| ![Registro](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/bcde80bd-50cb-4555-b78d-649ef3cc8e51) |
+| ![Registro](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/bcde80bd-50cb-4555-b78d-649ef3cc8e51)
 | ![Exitoso](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/41e19459-bc72-4ba8-adfe-bfc5a65eb268) |
 | Mensajes de Error | Mensajes de Error |
 |--------|--------|
-| ![Error 1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/a41cf6d9-41cf-492a-951b-5fcb2d8747f7) |
+| ![Error 1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/a41cf6d9-41cf-492a-951b-5fcb2d8747f7)
 | ![Error 2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/22abeebd-0cff-497e-b01b-eb4aeb2e142d) |
 | Mensajes de Error | Mensajes de Error |
 |--------|--------|
-| ![Error 3](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b67d7086-0740-4ac0-8b34-497276f0c229) |
+| ![Error 3](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b67d7086-0740-4ac0-8b34-497276f0c229)
 | ![Error 4](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3855e4f0-e883-49a5-a83a-84e690df1853) |
 | Mensajes de Error |
 |--------|
@@ -119,7 +119,7 @@ El desarrollador participa en la planificación del siguiente paso y fundamental
 
 | Búsqueda Cancha | Filtros |
 |--------|--------|
-| ![Busqueda](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/aa0a40b0-a37d-4ec6-b55c-64035d341ee1) |
+| ![Busqueda](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/aa0a40b0-a37d-4ec6-b55c-64035d341ee1)
 | ![Filtros](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/1df4c978-0315-4ce5-a0e7-7f2c903aef28) |
 | Resultado |
 |--------|
@@ -129,24 +129,24 @@ El desarrollador participa en la planificación del siguiente paso y fundamental
 
 | Edición Datos | Edición Satisfactoria |
 |--------|--------|
-| ![Edicion](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/6aa19eb4-f35a-4527-a776-5dae27881703) |
+| ![Edicion](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/6aa19eb4-f35a-4527-a776-5dae27881703)
 | ![Satisfactoria 1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/19138af2-6e75-4c92-ae5e-ed5ca1bb7fe0) |
 | Edición Satisfactoria | Contraseña diferente a la actual |
 |--------|--------|
-| ![Satisfactoria 2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/19138af2-6e75-4c92-ae5e-ed5ca1bb7fe0) |
+| ![Satisfactoria 2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/19138af2-6e75-4c92-ae5e-ed5ca1bb7fe0)
 | ![RS3](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/a8695858-09f2-4b5b-82d1-51ea458a8eb0) |
 | RS1 Email invalido | RS2 Largo contraseña |
 |--------|--------|
-| ![RS1 Email](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/4dbb1b96-1c2e-4095-a0c4-24305aa4b023) |
+| ![RS1 Email](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/4dbb1b96-1c2e-4095-a0c4-24305aa4b023)
 | ![RS2 Contraseña](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/331111da-62f8-4454-9802-ee10e364eed9) |
 
 ##### Prototipo Reserva
 
 | Reserva | Confirmación de Reserva |
 |--------|--------|
-| ![Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/1b986650-f09f-464c-b2f8-b5d9c5c53b8e) |
+| ![Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/1b986650-f09f-464c-b2f8-b5d9c5c53b8e)
 | ![Confirmacion de Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3f2bb2f0-e59e-405d-857f-bbe94e06afbc) |
 | Reserva Exitosa | Email de Confirmación |
 |--------|--------|
-| ![Reserva Exitosa](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/46852fa3-f935-47b5-8da6-eec0a532083b) |
+| ![Reserva Exitosa](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/46852fa3-f935-47b5-8da6-eec0a532083b)
 | ![Email de Confirmacion](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/89e8e674-7be9-45f9-94c7-54cb389f4921) |
