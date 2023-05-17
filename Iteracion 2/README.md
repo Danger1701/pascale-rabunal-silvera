@@ -24,6 +24,24 @@
 
 ## Propuestas de solución
 
+### Brainstorming de nombres para la app
+
+Los miembros del equipo realizamos una sesion de brainstorming para lograr decidir el nombre de la app.
+Algunos de los nombres mencionados: Cancha-Ya, Ya Cancha, Futbol 5 App, GameTime.
+
+Decidimos elegir el nombre de Ya Cancha por las siguientes razones:
+- El uso del término "Ya" en el nombre añade un elemento emocional y de urgencia, generando un sentido de acción inmediata. 
+  Sugiere que los usuarios pueden reservar una cancha de fútbol de forma rápida y sin demoras, lo cual puede ser atractivo para aquellos que buscan jugar al fútbol de manera espontánea o que tienen una ventana de tiempo limitada.
+- "Ya Cancha" es un nombre corto y conciso, lo cual lo hace fácil de recordar para los usuarios. 
+  La simplicidad del nombre evita confusiones y lo hace más accesible para una amplia gama de usuarios, incluyendo aquellos que no son expertos en tecnología.
+  
+### Logotipo de la app y paleta de colores
+
+Luego de tomar la decision de escoger el nombre, decidimos elegir un logotipo claro y sencillo que muestre las intensiones de nuestra aplicacion.
+Decidimos utilizar una letra sencilla que sea un poco mas descontracturada de lo usual, acompañado de una paleta de colores asociada al deporte (Verde y blanco).
+
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/b05a3a5b-ac7e-46dd-97d9-0078d9551e82)
+
 ### Implementación de trabajo en Crazy 8s - Reserva de Canchas de Fútbol
 
 #### Equipo
