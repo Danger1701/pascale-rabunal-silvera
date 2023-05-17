@@ -348,3 +348,13 @@ A continuación se demuestra evidencia del uso de los principios de manejo de ve
 
 ![Control version_1](https://user-images.githubusercontent.com/22498383/236552621-a3cbbb43-bd9b-42af-a0db-96835fc598fe.PNG)
 ![Control version_2](https://user-images.githubusercontent.com/22498383/236552626-4211cd9b-2f76-4373-9109-be4ce368a9d1.PNG)
+
+#### Prototipos Busqueda de cancha
+
+| Título | Imagen |
+|--------|--------|
+| Busqueda Cancha | ![Busqueda Cancha](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/aa0a40b0-a37d-4ec6-b55c-64035d341ee1) |
+| Filtros | ![Filtros](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/1df4c978-0315-4ce5-a0e7-7f2c903aef28) |
+| Resultado Aplicar Filtro | ![Resultado Aplicar Filtro](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/121f7d92-d223-4903-8499-8a5702978032) |
+
+
