@@ -99,5 +99,16 @@ Login Error:
 Login Error: 
 ![Error2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/e04bf227-fa2e-4487-b2df-cd18052f9cc6)
 
+### Prototipos Registro Usuario:
+
+| Presentación Registro de Usuario      | Caso Exitoso              |
+| ------------------------------------ | ------------------------- |
+| ![Presentación - Copy (2)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/bcde80bd-50cb-4555-b78d-649ef3cc8e51) | ![Presentación](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/41e19459-bc72-4ba8-adfe-bfc5a65eb268) |
+
+| Mensajes de Error                    | Mensajes de Error         |
+| ------------------------------------ | ------------------------- |
+| ![Presentación - Copy (3)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/a41cf6d9-41cf-492a-951b-5fcb2d8747f7) | ![Presentación - Copy (4)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/22abeebd-0cff-497e-b01b-eb4aeb2e142d) |
+| ![Presentación - Copy (5)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b67d7086-0740-4ac0-8b34-497276f0c229) | ![Presentación - Copy (7)](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3855e4f0-e883-49a5-a83a-84e690df1853) |
+| ![Presentación - Copy](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/5ea5becd-38f6-41cc-b286-1e7226f3d88d) |                           |
 
 
