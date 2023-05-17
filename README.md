@@ -377,3 +377,13 @@ Login Error:
 | ![Presentación - Copy](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/5ea5becd-38f6-41cc-b286-1e7226f3d88d) |                           |
 
 
+
+#### Prototipos Busqueda de cancha
+
+| Título | Imagen |
+|--------|--------|
+| Busqueda Cancha | ![Busqueda Cancha](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/aa0a40b0-a37d-4ec6-b55c-64035d341ee1) |
+| Filtros | ![Filtros](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/1df4c978-0315-4ce5-a0e7-7f2c903aef28) |
+| Resultado Aplicar Filtro | ![Resultado Aplicar Filtro](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/121f7d92-d223-4903-8499-8a5702978032) |
+
+
