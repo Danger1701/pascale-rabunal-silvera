@@ -348,3 +348,19 @@ A continuación se demuestra evidencia del uso de los principios de manejo de ve
 
 ![Control version_1](https://user-images.githubusercontent.com/22498383/236552621-a3cbbb43-bd9b-42af-a0db-96835fc598fe.PNG)
 ![Control version_2](https://user-images.githubusercontent.com/22498383/236552626-4211cd9b-2f76-4373-9109-be4ce368a9d1.PNG)
+
+
+#### Prototipos 
+
+Pantalla de Presentacion ,  previa al login del user
+![Presentacion](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/86aba527-3b05-49ba-baab-fa8d2313e89f)
+
+Login Usuario
+![Login](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/e2bff46f-bded-41ca-97f2-0f228b969bd3)
+
+Login Error:
+![ErrorRsn1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/1adfa12f-c2fd-4e32-98c8-070ba6a4d3ce)
+
+Login Error: 
+![Error2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/e04bf227-fa2e-4487-b2df-cd18052f9cc6)
+
