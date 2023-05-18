@@ -163,3 +163,29 @@ Este prototipo inicial, tiene pendiente la validación con usuarios y con el cli
 | ![Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/1b986650-f09f-464c-b2f8-b5d9c5c53b8e) | ![Confirmacion de Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3f2bb2f0-e59e-405d-857f-bbe94e06afbc) |
 | Reserva Exitosa | Email de Confirmación |
 | ![Reserva Exitosa](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/46852fa3-f935-47b5-8da6-eec0a532083b) | ![Email de Confirmacion](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/89e8e674-7be9-45f9-94c7-54cb389f4921) |
+
+
+
+##### Prototipo Fixes 
+Login se agrega Un avatar y opcion de visualizar el sitio sin estar registrado.
+Registro  -Avatar de Usuario.
+          -Opcion de cedula de identidad.
+          -Opcion de dudas contactate.
+Edicion de datos personales  -Correo electronico actual.
+                             -Contactate con nosotros.
+                             
+ Seleccion tu cancha - Se anade tipo de cancha
+ 
+ Detalle Reserva  - Se rediseña para mostrar mas informacion de la reserva.
+            
+
+
+| Título | Imagen |
+|--------|--------|
+| Detalle Reserva | ![Detalle Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/9413cb06-c214-4214-bc35-59d0f1399c7d) |
+| Selección de Cancha | ![Selección de Cancha](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/35ac562a-cdde-48d8-8c98-aee3c0f1dbe2) |
+| Inicio con Modificaciones | ![Inicio con Modificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/26d601e2-0e9a-42a7-a233-c1ab4358c92e) |
+| Modificación Edición Datos Personales | ![Modificación Edición Datos Personales](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/54aa2306-0ce3-4fff-934a-b95956b1c6cd) |
+| Modificación Registro | ![Modificación Registro](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/ee54e58c-201b-4602-b772-9334db42546d) |
+
+
