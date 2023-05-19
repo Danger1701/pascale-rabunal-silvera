@@ -285,3 +285,41 @@ Conclusiones:
 
 
 
+## Sprint Backlog
+
+Evidencia del Sprint Backlog
+
+![Sprint Backlog_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/8374318c-7b1c-4b2f-8cda-8137f0b64c93)
+
+## Boards
+
+![Boards_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/d74fba01-b0dc-496c-a73e-e62007a4cfcd)
+
+## Burndown Trend
+
+![Burndown Trend _1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/34eaea84-a0ad-4d70-8772-2762fc848826)
+![Burndown Trend _2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/667e63de-891e-424d-9278-3570314bd7c4)
+
+## Dedicación del equipo
+
+### Dedicación por integrantes del equipo
+
+#### Maximiliano Pascale
+
+![Horas_Pascale](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/4c4d31f2-c62d-469f-93af-f1e1790b10fc)
+
+#### Juan Manuel Rabuñal
+
+![Horas_Rabunal](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/11e955c4-2d0d-4ad7-ad75-f0ab82e5390e)
+
+#### Sebastian Silveira
+
+![Horas_Silvera](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/06d3c63c-969d-4d70-ad02-b1e83ba00cba)
+
+### Dedicación equipo
+
+Dedicación de horas acumuladas por el equipo.
+
+![Horas_Equipo](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/699eabaa-028d-4c8d-a2f2-abe21a6040e4)
+
+![Horas_Equipo_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/d5e82a9a-c162-4d21-b71c-4511b4579c2f)
