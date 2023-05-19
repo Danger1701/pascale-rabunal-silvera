@@ -195,3 +195,53 @@ A continuación, presentaremos estas mejoras y explicaremos cómo pueden benefic
 | ![Inicio con Modificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/26d601e2-0e9a-42a7-a233-c1ab4358c92e) | ![Modificación Edición Datos Personales](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/54aa2306-0ce3-4fff-934a-b95956b1c6cd) |
 | Modificación Registro |
 | ![Modificación Registro](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/ee54e58c-201b-4602-b772-9334db42546d) |
+
+#### Encuesta de usabilidad YaCancha por usuarios
+
+Hemos llevado a cabo una encuesta para evaluar la satisfacción y recopilar comentarios sobre el prototipo de nuestra aplicación móvil para la reserva de canchas de fútbol.  
+Los resultados son muy importantes para nosotros, ya que eso nos ayuda a garantizar que la aplicación se ajuste de manera óptima a las necesidades y expectativas.
+
+Durante el proceso de encuesta, hemos recopilado información sobre diversos aspectos de la aplicación móvil, incluyendo la usabilidad de la interfaz, la facilidad de navegación, la claridad de las instrucciones, la eficacia del proceso de reserva, entre otros.  
+Las respuestas nos proporcionan una visión más clara de los puntos fuertes y áreas de oportunidad de nuestro prototipo.
+
+En base a los resultados preliminares de la encuesta, observamos que la mayoría de los participantes encontraron la interfaz intuitiva y fácil de usar.  
+También se ha destacado la facilidad de la aplicación para la reserva de canchas de fútbol.  
+No obstante, también hemos identificado algunas áreas en las que podemos realizar mejoras para garantizar una experiencia aún más satisfactoria como por ejemplo la edición de datos personales.
+
+Nos comprometemos a tomar en consideración cada comentario y sugerencia recibida para optimizar el rendimiento y funcionalidad de nuestra aplicación.
+
+Link a encuesta: <https://docs.google.com/forms/d/e/1FAIpQLSfVwug9xuKzRgaWvpiltpq-NGzf3HdAv-kwmxGpf6BR4kQvxg/viewform>
+
+#### Resultados de encuesta de usabilidad
+
+##### Login
+
+![Login](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/239e6a08-97cf-4144-b3f7-0f877b0fd72b)
+![Login_Error](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/c657df0f-b8f5-4874-ad84-98bedf842d58)
+
+##### Registro
+
+![Registro](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/18758eaa-9ac7-45be-86c1-3058ba9728d3)
+![Registro_Error](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/4c831f99-bd0d-4b8c-b7e9-561d65fc775c)
+
+##### Edición
+
+![Edicion](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/1b04a309-f9cf-42d4-b3de-052fd8cb7fb2)
+
+##### Búsqueda
+
+![Busqueda](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/81a599ba-5aef-461f-843b-59ea2c3168ac)
+![Busqueda_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/e47b14f2-6535-4af8-b9fe-5ebcf599d520)
+
+##### Reserva
+
+![Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/90d5dd3b-0a78-4b88-b127-ee4f2a66d0ff)
+![Reserva_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/2e61e744-f07f-4f83-9443-b47c63eaa570)
+![Reserva_mejoras](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/c3a33e52-bc2b-4266-b516-cddc63e37371)
+
+##### General
+
+![General_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/7d0a1bfb-bb40-4811-b8fb-1c18eba200ab)
+![General_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/b88bf7d1-3176-465f-b8a9-f513534f356e)
+![General_3](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/23a9fd7c-ea28-4fa0-b6f7-5e90996ad4af)
+![General_4](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/4fa169ad-3cc2-4d75-b840-b4757243fe83)
