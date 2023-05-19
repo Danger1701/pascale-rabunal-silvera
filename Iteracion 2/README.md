@@ -246,6 +246,23 @@ Link a encuesta: <https://docs.google.com/forms/d/e/1FAIpQLSfVwug9xuKzRgaWvpiltp
 ![General_3](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/23a9fd7c-ea28-4fa0-b6f7-5e90996ad4af)
 ![General_4](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/4fa169ad-3cc2-4d75-b840-b4757243fe83)
 
+---------------------------------------------------------------------------
+
+## Sprint Backlog
+
+Evidencia del Sprint Backlog
+
+![Sprint Backlog_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/8374318c-7b1c-4b2f-8cda-8137f0b64c93)
+
+## Boards
+
+![Boards_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/d74fba01-b0dc-496c-a73e-e62007a4cfcd)
+
+## Burndown Trend
+
+![Burndown Trend _1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/34eaea84-a0ad-4d70-8772-2762fc848826)
+![Burndown Trend _2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/667e63de-891e-424d-9278-3570314bd7c4)
+
 ## Dedicación del equipo
 
 ### Dedicación por integrantes del equipo
