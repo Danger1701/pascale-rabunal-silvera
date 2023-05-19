@@ -40,9 +40,10 @@ Los miembros del equipo realizamos una sesion de brainstorming para lograr decid
 Algunos de los nombres mencionados: Cancha-Ya, Ya Cancha, Futbol 5 App, GameTime.
 
 Decidimos elegir el nombre de Ya Cancha por las siguientes razones:
-- El uso del término "Ya" en el nombre añade un elemento emocional y de urgencia, generando un sentido de acción inmediata. 
+
+- El uso del término "Ya" en el nombre añade un elemento emocional y de urgencia, generando un sentido de acción inmediata.
   Sugiere que los usuarios pueden reservar una cancha de fútbol de forma rápida y sin demoras, lo cual puede ser atractivo para aquellos que buscan jugar al fútbol de manera espontánea o que tienen una ventana de tiempo limitada.
-- "Ya Cancha" es un nombre corto y conciso, lo cual lo hace fácil de recordar para los usuarios. 
+- "Ya Cancha" es un nombre corto y conciso, lo cual lo hace fácil de recordar para los usuarios.
   La simplicidad del nombre evita confusiones y lo hace más accesible para una amplia gama de usuarios, incluyendo aquellos que no son expertos en tecnología.
   
 ### Logotipo de la app y paleta de colores
@@ -114,7 +115,7 @@ El desarrollador participa en la planificación del siguiente paso y fundamental
 
 #### Prototipos
 
-Se realiza el prototipo de las pantallas planificadas en este sprint. 
+Se realiza el prototipo de las pantallas planificadas en este sprint.
 
 Este prototipo inicial, tiene pendiente la validación con usuarios y con el cliente por el PO (los ajustes propuesto por usuarios y cliente lo expondremos mas adelante en este documento).
 
@@ -164,28 +165,35 @@ Este prototipo inicial, tiene pendiente la validación con usuarios y con el cli
 | Reserva Exitosa | Email de Confirmación |
 | ![Reserva Exitosa](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/46852fa3-f935-47b5-8da6-eec0a532083b) | ![Email de Confirmacion](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/89e8e674-7be9-45f9-94c7-54cb389f4921) |
 
+#### Mejoras en prototipos propuestos por el PO
 
+El Product Owner ha identificado una serie de mejoras clave que pueden enriquecer la experiencia de los usuarios y optimizar el funcionamiento de la plataforma.
+A continuación, presentaremos estas mejoras y explicaremos cómo pueden beneficiar tanto a los jugadores como a los administradores de canchas.
 
-##### Prototipo Fixes 
-Login se agrega Un avatar y opcion de visualizar el sitio sin estar registrado.
-Registro  -Avatar de Usuario.
-          -Opcion de cedula de identidad.
-          -Opcion de dudas contactate.
-Edicion de datos personales  -Correo electronico actual.
-                             -Contactate con nosotros.
-                             
- Seleccion tu cancha - Se anade tipo de cancha
- 
- Detalle Reserva  - Se rediseña para mostrar mas informacion de la reserva.
-            
+- Login
+  - Se agrega Un avatar y opción de visualizar el sitio sin estar registrado
 
+- Registro
+  - Avatar de Usuario
+  - Opción de cédula de identidad
+  - Opción de dudas contactarte
 
-| Título | Imagen |
+- Edición de datos personales
+  - Correo electrónico actual
+  - Contactarte con nosotros
+
+- Selección tu cancha
+  - Se añade tipo de cancha
+
+- Detalle Reserva
+  - Se re diseña para mostrar mas información de la reserva
+
+| Detalle Reserva | Selección de Cancha |
 |--------|--------|
-| Detalle Reserva | ![Detalle Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/9413cb06-c214-4214-bc35-59d0f1399c7d) |
-| Selección de Cancha | ![Selección de Cancha](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/35ac562a-cdde-48d8-8c98-aee3c0f1dbe2) |
-| Inicio con Modificaciones | ![Inicio con Modificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/26d601e2-0e9a-42a7-a233-c1ab4358c92e) |
-| Modificación Edición Datos Personales | ![Modificación Edición Datos Personales](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/54aa2306-0ce3-4fff-934a-b95956b1c6cd) |
-| Modificación Registro | ![Modificación Registro](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/ee54e58c-201b-4602-b772-9334db42546d) |
-
-
+| ![Detalle Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/9413cb06-c214-4214-bc35-59d0f1399c7d)
+| ![Selección de Cancha](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/35ac562a-cdde-48d8-8c98-aee3c0f1dbe2) |
+| Inicio con Modificaciones | Modificación Edición Datos Personales |
+| ![Inicio con Modificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/26d601e2-0e9a-42a7-a233-c1ab4358c92e)
+| ![Modificación Edición Datos Personales](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/54aa2306-0ce3-4fff-934a-b95956b1c6cd) |
+| Modificación Registro |
+| ![Modificación Registro](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/ee54e58c-201b-4602-b772-9334db42546d) |
