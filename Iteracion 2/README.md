@@ -168,7 +168,7 @@ Este prototipo inicial, tiene pendiente la validación con usuarios y con el cli
 #### Mejoras en prototipos propuestos por el PO
 
 El Product Owner ha identificado una serie de mejoras clave que pueden enriquecer la experiencia de los usuarios y optimizar el funcionamiento de la plataforma.
-A continuación, presentaremos estas mejoras y explicaremos cómo pueden beneficiar tanto a los jugadores como a los administradores de canchas.
+A continuación, presentaremos estas mejoras y explicaremos cómo pueden beneficiar a los usuarios.
 
 - Login
   - Se agrega Un avatar y opción de visualizar el sitio sin estar registrado
@@ -190,10 +190,8 @@ A continuación, presentaremos estas mejoras y explicaremos cómo pueden benefic
 
 | Detalle Reserva | Selección de Cancha |
 |--------|--------|
-| ![Detalle Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/9413cb06-c214-4214-bc35-59d0f1399c7d)
-| ![Selección de Cancha](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/35ac562a-cdde-48d8-8c98-aee3c0f1dbe2) |
+| ![Detalle Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/9413cb06-c214-4214-bc35-59d0f1399c7d) | ![Selección de Cancha](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/35ac562a-cdde-48d8-8c98-aee3c0f1dbe2) |
 | Inicio con Modificaciones | Modificación Edición Datos Personales |
-| ![Inicio con Modificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/26d601e2-0e9a-42a7-a233-c1ab4358c92e)
-| ![Modificación Edición Datos Personales](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/54aa2306-0ce3-4fff-934a-b95956b1c6cd) |
+| ![Inicio con Modificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/26d601e2-0e9a-42a7-a233-c1ab4358c92e) | ![Modificación Edición Datos Personales](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/54aa2306-0ce3-4fff-934a-b95956b1c6cd) |
 | Modificación Registro |
 | ![Modificación Registro](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/ee54e58c-201b-4602-b772-9334db42546d) |
