@@ -248,25 +248,24 @@ Link a encuesta: <https://docs.google.com/forms/d/e/1FAIpQLSfVwug9xuKzRgaWvpiltp
 
 ## Dedicación del equipo
 
-
-
 ### Dedicación por integrantes del equipo
-
-
 
 #### Maximiliano Pascale
 
-
+![Horas_Pascale](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/4c4d31f2-c62d-469f-93af-f1e1790b10fc)
 
 #### Juan Manuel Rabuñal
 
-
+![Horas_Rabunal](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/11e955c4-2d0d-4ad7-ad75-f0ab82e5390e)
 
 #### Sebastian Silveira
 
-
+![Horas_Silvera](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/06d3c63c-969d-4d70-ad02-b1e83ba00cba)
 
 ### Dedicación equipo
 
 Dedicación de horas acumuladas por el equipo.
 
+![Horas_Equipo](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/699eabaa-028d-4c8d-a2f2-abe21a6040e4)
+
+![Horas_Equipo_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/d5e82a9a-c162-4d21-b71c-4511b4579c2f)
