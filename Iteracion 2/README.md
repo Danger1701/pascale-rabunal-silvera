@@ -245,3 +245,27 @@ Link a encuesta: <https://docs.google.com/forms/d/e/1FAIpQLSfVwug9xuKzRgaWvpiltp
 ![General_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/b88bf7d1-3176-465f-b8a9-f513534f356e)
 ![General_3](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/23a9fd7c-ea28-4fa0-b6f7-5e90996ad4af)
 ![General_4](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/4fa169ad-3cc2-4d75-b840-b4757243fe83)
+
+---------------------------------------------------------------------------
+
+### Sprint Review
+
+
+
+
+---------------------------------------------------------------------------
+
+### Sprint Retrospective
+
+Realizamos la retospective utilizando metroretro la herramienta que aprendimos en clase.
+Decidimos utilizar el template I Like, I Wish para la dinamica de la misma.
+El template consiste en poner ¿Cuáles fueron las cosas buenas que sucedieron? y ¿Cuáles son algunas de las cosas que te gustaría que sucedieran en el futuro?.
+
+Resultados de I like - ¿Cuáles fueron las cosas buenas que sucedieron?
+
+Resultado de I Wolud - ¿Cuáles son algunas de las cosas que te gustaría que sucedieran en el futuro?
+
+
+
+
+
