@@ -195,3 +195,22 @@ A continuación, presentaremos estas mejoras y explicaremos cómo pueden benefic
 | ![Inicio con Modificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/26d601e2-0e9a-42a7-a233-c1ab4358c92e) | ![Modificación Edición Datos Personales](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/54aa2306-0ce3-4fff-934a-b95956b1c6cd) |
 | Modificación Registro |
 | ![Modificación Registro](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/ee54e58c-201b-4602-b772-9334db42546d) |
+
+#### Encuesta de usabilidad YaCancha por usuarios
+
+Hemos llevado a cabo una encuesta para evaluar la satisfacción y recopilar comentarios sobre el prototipo de nuestra aplicación móvil para la reserva de canchas de fútbol.  
+Los resultados son muy importantes para nosotros, ya que eso nos ayuda a garantizar que la aplicación se ajuste de manera óptima a las necesidades y expectativas.
+
+Durante el proceso de encuesta, hemos recopilado información sobre diversos aspectos de la aplicación móvil, incluyendo la usabilidad de la interfaz, la facilidad de navegación, la claridad de las instrucciones, la eficacia del proceso de reserva, entre otros.  
+Las respuestas nos proporcionan una visión más clara de los puntos fuertes y áreas de oportunidad de nuestro prototipo.
+
+En base a los resultados preliminares de la encuesta, observamos que la mayoría de los participantes encontraron la interfaz intuitiva y fácil de usar.  
+También se ha destacado la facilidad de la aplicación para la reserva de canchas de fútbol.  
+No obstante, también hemos identificado algunas áreas en las que podemos realizar mejoras para garantizar una experiencia aún más satisfactoria como por ejemplo la edición de datos personales.
+
+Nos comprometemos a tomar en consideración cada comentario y sugerencia recibida para optimizar el rendimiento y funcionalidad de nuestra aplicación.
+
+Link a encuesta: <https://docs.google.com/forms/d/e/1FAIpQLSfVwug9xuKzRgaWvpiltpq-NGzf3HdAv-kwmxGpf6BR4kQvxg/viewform>
+
+#### Resultados de encuesta de usabilidad
+
