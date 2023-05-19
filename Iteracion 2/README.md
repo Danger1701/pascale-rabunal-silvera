@@ -263,7 +263,23 @@ El template consiste en poner ¿Cuáles fueron las cosas buenas que sucedieron? 
 
 Resultados de I like - ¿Cuáles fueron las cosas buenas que sucedieron?
 
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/7d0824c4-a1e4-4e90-a049-e204c39420c0)
+
+Conclusiones:
+- Mejoro la comunicacion entre el equipo
+- Mejor organizacion
+- Mayor fluidez comparado con el sprint anterior
+
 Resultado de I Wolud - ¿Cuáles son algunas de las cosas que te gustaría que sucedieran en el futuro?
+
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/c4bfc072-2837-4da9-a2cf-1aa91e4a81d0)
+
+Conclusiones:
+- seguir mejorando la comunicacion entre el equipo
+- Lograr una buena experiencia de usuario
+- Poder culminar las tareas en tiempo y forma
+
+
 
 
 
