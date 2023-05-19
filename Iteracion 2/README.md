@@ -286,3 +286,8 @@ Dedicación de horas acumuladas por el equipo.
 ![Horas_Equipo](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/699eabaa-028d-4c8d-a2f2-abe21a6040e4)
 
 ![Horas_Equipo_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/d5e82a9a-c162-4d21-b71c-4511b4579c2f)
+
+## Evidencia de manejo de versiones
+
+A continuación se demuestra evidencia del uso de los principios de manejo de versiones adoptados por el equipo.
+
