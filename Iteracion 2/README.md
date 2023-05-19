@@ -214,3 +214,34 @@ Link a encuesta: <https://docs.google.com/forms/d/e/1FAIpQLSfVwug9xuKzRgaWvpiltp
 
 #### Resultados de encuesta de usabilidad
 
+##### Login
+
+![Login](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/239e6a08-97cf-4144-b3f7-0f877b0fd72b)
+![Login_Error](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/c657df0f-b8f5-4874-ad84-98bedf842d58)
+
+##### Registro
+
+![Registro](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/18758eaa-9ac7-45be-86c1-3058ba9728d3)
+![Registro_Error](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/4c831f99-bd0d-4b8c-b7e9-561d65fc775c)
+
+##### Edicion
+
+![Edicion](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/1b04a309-f9cf-42d4-b3de-052fd8cb7fb2)
+
+##### Busqueda
+
+![Busqueda](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/81a599ba-5aef-461f-843b-59ea2c3168ac)
+![Busqueda_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/e47b14f2-6535-4af8-b9fe-5ebcf599d520)
+
+##### Reserva
+
+![Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/90d5dd3b-0a78-4b88-b127-ee4f2a66d0ff)
+![Reserva_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/2e61e744-f07f-4f83-9443-b47c63eaa570)
+![Reserva_mejoras](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/c3a33e52-bc2b-4266-b516-cddc63e37371)
+
+##### General
+
+![General_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/7d0a1bfb-bb40-4811-b8fb-1c18eba200ab)
+![General_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/b88bf7d1-3176-465f-b8a9-f513534f356e)
+![General_3](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/23a9fd7c-ea28-4fa0-b6f7-5e90996ad4af)
+![General_4](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/4fa169ad-3cc2-4d75-b840-b4757243fe83)
