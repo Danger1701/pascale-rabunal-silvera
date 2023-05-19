@@ -246,6 +246,23 @@ Link a encuesta: <https://docs.google.com/forms/d/e/1FAIpQLSfVwug9xuKzRgaWvpiltp
 ![General_3](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/23a9fd7c-ea28-4fa0-b6f7-5e90996ad4af)
 ![General_4](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/4fa169ad-3cc2-4d75-b840-b4757243fe83)
 
+---------------------------------------------------------------------------
+
+
+## Sprint Backlog
+
+Evidencia del Sprint Backlog
+
+
+
+## Boards
+
+
+
+## Burndown Trend
+
+
+
 ## Dedicación del equipo
 
 ### Dedicación por integrantes del equipo
