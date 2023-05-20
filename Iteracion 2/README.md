@@ -251,7 +251,11 @@ Link a encuesta: <https://docs.google.com/forms/d/e/1FAIpQLSfVwug9xuKzRgaWvpiltp
 ### Sprint Review
 
 
+Durante la revisión del sprint, el equipo de Scrum y los interesados examinamos los logros alcanzados durante el sprint y los cambios ocurridos en nuestro entorno. Entre los avances destacados, hemos construido y validado posibles soluciones del MVP a través de prototipos específicos para nuestra aplicación de reserva de canchas de fútbol.
 
+En particular, hemos desarrollado prototipos que ofrecen soluciones para entregar valor y resolver el problema identificado. 
+También hemos realizado inspecciones del producto que incluyen instancias de validación con usuarios reales, recolectando sus comentarios y realizando ajustes finales a los prototipos.
+Ademas les pedimos si podian poner sugerencias y aspectos que no le gusten para poder mejorar aun mas la experiencia del usuario.
 
 ---------------------------------------------------------------------------
 
@@ -278,12 +282,6 @@ Conclusiones:
 - seguir mejorando la comunicacion entre el equipo
 - Lograr una buena experiencia de usuario
 - Poder culminar las tareas en tiempo y forma
-
-
-
-
-
-
 
 ## Sprint Backlog
 
