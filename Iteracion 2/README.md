@@ -36,8 +36,8 @@ Evidencia del Sprint Backlog
 
 ### Brainstorming de nombres para la app
 
-Los miembros del equipo realizamos una sesion de brainstorming para lograr decidir el nombre de la app.
-Algunos de los nombres mencionados: Cancha-Ya, Ya Cancha, Futbol 5 App, GameTime.
+Los miembros del equipo realizamos una sesión de brainstorming para lograr decidir el nombre de la app.
+Algunos de los nombres mencionados: Cancha-Ya, Ya Cancha, Fútbol 5 App, GameTime.
 
 Decidimos elegir el nombre de Ya Cancha por las siguientes razones:
 
@@ -255,14 +255,14 @@ Durante la revisión del sprint, el equipo de Scrum y los interesados examinamos
 
 En particular, hemos desarrollado prototipos que ofrecen soluciones para entregar valor y resolver el problema identificado. 
 También hemos realizado inspecciones del producto que incluyen instancias de validación con usuarios reales, recolectando sus comentarios y realizando ajustes finales a los prototipos.
-Ademas les pedimos si podian poner sugerencias y aspectos que no le gusten para poder mejorar aun mas la experiencia del usuario.
+Ademas les pedimos si podían poner sugerencias y aspectos que no le gusten para poder mejorar aun mas la experiencia del usuario.
 
 ---------------------------------------------------------------------------
 
 ### Sprint Retrospective
 
 Realizamos la retospective utilizando metroretro la herramienta que aprendimos en clase.
-Decidimos utilizar el template I Like, I Wish para la dinamica de la misma.
+Decidimos utilizar el template I Like, I Wish para la dinámica de la misma.
 El template consiste en poner ¿Cuáles fueron las cosas buenas que sucedieron? y ¿Cuáles son algunas de las cosas que te gustaría que sucedieran en el futuro?.
 
 Resultados de I like - ¿Cuáles fueron las cosas buenas que sucedieron?
@@ -270,8 +270,8 @@ Resultados de I like - ¿Cuáles fueron las cosas buenas que sucedieron?
 ![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/7d0824c4-a1e4-4e90-a049-e204c39420c0)
 
 Conclusiones:
-- Mejoro la comunicacion entre el equipo
-- Mejor organizacion
+- Mejoro la comunicación entre el equipo
+- Mejor organización
 - Mayor fluidez comparado con el sprint anterior
 
 Resultado de I Wolud - ¿Cuáles son algunas de las cosas que te gustaría que sucedieran en el futuro?
@@ -279,7 +279,7 @@ Resultado de I Wolud - ¿Cuáles son algunas de las cosas que te gustaría que s
 ![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/c4bfc072-2837-4da9-a2cf-1aa91e4a81d0)
 
 Conclusiones:
-- seguir mejorando la comunicacion entre el equipo
+- seguir mejorando la comunicación entre el equipo
 - Lograr una buena experiencia de usuario
 - Poder culminar las tareas en tiempo y forma
 
