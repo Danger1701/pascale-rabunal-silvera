@@ -64,11 +64,12 @@ La definición de lista de requisitos previos para una historia de usuario entra
 
 Los criterios para determinar qué historias terminaron con éxito su proceso de implementación serán:
 
-1. Las pruebas automatizadas y manuales han sido completadas satisfactoriamente.
+1. Las validaciones correspondiente con el cliente, ajustando su correspondiente feedback.
 2. El elemento ha sido revisado por un par o por el equipo de desarrollo.
 3. El elemento ha sido probado y se ha verificado que funciona correctamente en diferentes entornos.
-4. El elemento ha sido integrado y desplegado en el entorno de producción.
+4. Todo el trabajo debe estar integrado a main.
 5. La documentación ha sido actualizada y se ha revisado para asegurarse de que esté completa y precisa.
+6. Debe ser probada por usuarios reales, ajustando su correspondiente feedback.
 
 ### Control de versiones
 
