@@ -58,3 +58,7 @@ Sebastian Silvera
 
 
 ---------------------------------------------------------------------------
+
+### Crear Juego Aleatorio 
+<img width="268" alt="image" src="https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3157deae-61af-4eaf-9b55-1af0a20542f1">
+<img width="284" alt="image" src="https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/41bc7a80-d3d1-4350-b8f7-9d46189ef30f">
