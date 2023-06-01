@@ -58,3 +58,10 @@ Sebastian Silvera
 
 
 ---------------------------------------------------------------------------
+
+### Unirse a Juego Aleatorio
+
+| Descripcion | Enlace |
+|-------------------|--------|
+| Universe A Juego Aleatorio | ![Universe A Juego Aleatorio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/0be97ba9-b349-4a8c-b0b2-88dd46262bc9) |
+
