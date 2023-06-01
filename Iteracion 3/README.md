@@ -58,3 +58,15 @@ Sebastian Silvera
 
 
 ---------------------------------------------------------------------------
+
+
+### Notificaciones
+
+Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de notificaciones ademas de una visualizacion sencilla de cuales notificaiones ya visualizo y cuales aun no. 
+
+
+| Titulo modificacion | Enlace |
+|-------------------|--------|
+| Notificaciones | ![Notificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b01a02a9-c9ca-4155-82bd-d17d0c9e94cd) |
+
+
