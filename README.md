@@ -655,3 +655,15 @@ A continuación se demuestra evidencia del uso de los principios de manejo de ve
 ![Control version_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/3dce3c1a-c526-4510-8ee9-1f607e6cf46a)
 ![Control version_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/73ac2452-532c-42c9-8e22-7bf3743509ab)
 
+### Notificaciones
+
+Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de notificaciones ademas de una visualizacion sencilla de cuales notificaiones ya visualizo y cuales aun no. 
+
+
+| Titulo modificacion | Enlace |
+|-------------------|--------|
+| Notificaciones | ![Notificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b01a02a9-c9ca-4155-82bd-d17d0c9e94cd) |
+
+
+
+
