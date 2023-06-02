@@ -58,3 +58,7 @@ Sebastian Silvera
 
 
 ---------------------------------------------------------------------------
+
+### Update Pantalla de Reserva
+
+![Update Pantalla de Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/114319c1-1c25-4fd4-8861-a3865c62e218)
