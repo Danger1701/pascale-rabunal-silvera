@@ -80,3 +80,14 @@ https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id
 | Universe A Juego Aleatorio | ![Universe A Juego Aleatorio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/0be97ba9-b349-4a8c-b0b2-88dd46262bc9) |
 | Unión Correcta            | ![Unión Correcta](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/fa45f289-afc5-4ecf-8c10-0b90b0b8c173)                    |
 
+---------------------------------------------------------------------------
+
+### Notificaciones
+
+Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de notificaciones ademas de una visualizacion sencilla de cuales notificaiones ya visualizo y cuales aun no. 
+
+
+| Titulo modificacion | Enlace |
+|-------------------|--------|
+| Notificaciones | ![Notificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b01a02a9-c9ca-4155-82bd-d17d0c9e94cd) |
+
