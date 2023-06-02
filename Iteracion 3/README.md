@@ -62,3 +62,13 @@ Sebastian Silvera
 Se presenta el link al prototipo funcional de Figma.
 
 https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id=431-714&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A46
+---------------------------------------------------------------------------
+
+### Crear Juego Aleatorio 
+
+| Titulo | Enlace |
+|-------------------|--------|
+| Modificacion Inicio | ![Modificacion Inicio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3123caf1-0ac5-4feb-a1da-18a6cfa9f114) |
+| JuegoAleatorio | ![JuegoAleatorio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/bdef91ee-854e-4051-9b23-0489ecd3b872) |
+
+
