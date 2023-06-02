@@ -49,7 +49,6 @@ En la carpeta "Evidencia" hay una carpeta llamada Sprint Planning donde estan to
 A continuacion vamos a poner una grilla personal donde fuimos registrando lo sucedido en las dailys.
 Dejando en evidencia las tareas en las que estamos trabajando, las que ya finalizamos, si estamos con algun blockeo y los temas hablados en la reunión.
 
-
-
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/0b6b00ad-6f8d-43ff-82b0-c66481990b82)
 
 ---------------------------------------------------------------------------
