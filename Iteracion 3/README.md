@@ -46,14 +46,10 @@ En la carpeta "Evidencia" hay una carpeta llamada Sprint Planning donde estan to
 
 ### Sprint daily
 
-A continuacion vamos a poner una grilla personal donde fuimos registrando lo sucedido en las dailys
+A continuacion vamos a poner una grilla personal donde fuimos registrando lo sucedido en las dailys.
 Dejando en evidencia las tareas en las que estamos trabajando, las que ya finalizamos, si estamos con algun blockeo y los temas hablados en la reunión.
 
-Juan Manuel Rabuñal
-
-Maximiliano Pascale
-
-Sebastian Silvera
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/0b6b00ad-6f8d-43ff-82b0-c66481990b82)
 
 ---------------------------------------------------------------------------
 
@@ -68,3 +64,4 @@ Funcionalidad de Modo Juego Aleatorio: Una característica única de la aplicaci
 Lista de canchas favoritas y recomendaciones personalizadas: La aplicación permitirá a los usuarios guardar sus canchas favoritas para acceder rápidamente a ellas en el futuro.
 
 Interacción social y funciones de invitación: La aplicación facilitará la interacción social entre los usuarios, permitiéndoles invitar a amigos y contactos a unirse a sus reservas o juegos. Esto fomentará la participación en grupo y hará que la experiencia deportiva sea más divertida y social.
+
