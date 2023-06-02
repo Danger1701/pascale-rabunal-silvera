@@ -81,6 +81,53 @@ Trabajaremos sobre “develop”, donde cada miembro creara sus ramas y trabaja 
 
 Al finalizar cada sprint “develop” será mergeada a “main”.
 
+#### Descripción de los PRs
+
+En función a las recomendaciones utilizaremos el siguiente articulo para definir como deben ser las descripciones de los PRs
+
+Articulo: <https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository>
+
+Puntos clave para redactar la descripción de los PRs:
+
+- Propósito del PR: Explicar de manera clara el propósito del PR, describiendo el problema que soluciona, la función que agrega o la mejora que implementa. Esto brinda contexto a los revisores y colaboradores.
+
+- Cambios realizados: Detallar específicamente los cambios efectuados, junto con cualquier detalle relevante.
+
+- Impacto y dependencias: Es importante mencionar si el PR tiene algún impacto en otras partes de las funcionalidades existentes.
+
+- Si el PR depende de otros PRs, debe ser informado.
+
+- Instrucciones para revisores: Proporciona orientación clara a los revisores sobre cómo evaluar y probar los cambios. Esto puede incluir detalles sobre la configuración necesaria, comandos específicos que deben ejecutarse u otros requisitos relevantes.
+
+- Capturas de pantalla (opcional): Si es relevante, incluir capturas de pantalla que muestren visualmente los cambios realizados. Esto puede ser especialmente útil en cambios relacionados con la interfaz de usuario.
+
+#### Nombre de ramas, commits y PRs
+
+En función a las recomendaciones utilizaremos el siguiente articulo para definir como deben ser los nombre de ramas, commits y PRs
+
+<https://code.erpenbeck.io/git/2021/03/01/git-naming-conventions/>
+
+**1. Para nombrar las ramas:
+
+    - Los nombres deben ser descriptivos y concisos.
+    - Utilizar minúsculas y separa las palabras con guiones.
+    - Agregar prefijos como "feature/" para nuevas características, "bugfix/" para correcciones de errores, "hotfix/" para soluciones urgentes, entre otros.
+    - Evitar nombres genéricos o ambiguos y eligir nombres que reflejen el propósito o contenido de la rama.
+
+**2. Para nombrar los commits:
+
+    - Los nombres deben ser claros y descriptivos.
+    - Utilizar verbos en tiempo presente para indicar la acción realizada, seguidos de una breve descripción del cambio.
+    - Limitar la longitud a unos 50 caracteres.
+    - Evitar agregar información innecesaria o detalles irrelevantes.
+
+**3. Para nombrar los Pull Requests:
+
+    - Comenzar con un prefijo que indique el propósito, como "Feature:", "Fix:", "Docs:", etc.
+    - Continuar con una breve descripción del cambio o problema que aborda.
+    - Utilizar un estilo conciso y claro.
+    - Evitar incluir información técnica compleja en el título del PR, reservar esos detalles para la descripción del PR.
+
 ---------------------------------------------------------------------------
 
 ## Identificación del problema a resolver
@@ -654,4 +701,3 @@ A continuación se demuestra evidencia del uso de los principios de manejo de ve
 
 ![Control version_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/3dce3c1a-c526-4510-8ee9-1f607e6cf46a)
 ![Control version_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/73ac2452-532c-42c9-8e22-7bf3743509ab)
-
