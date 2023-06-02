@@ -91,3 +91,11 @@ Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de
 |-------------------|--------|
 | Notificaciones | ![Notificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b01a02a9-c9ca-4155-82bd-d17d0c9e94cd) |
 
+---------------------------------------------------------------------------
+
+### Update Pantalla de Reserva
+
+| Descripción                    | Enlace                                                                                                       |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Update Pantalla de Reserva     | ![Update Pantalla de Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/114319c1-1c25-4fd4-8861-a3865c62e218)        |
+
