@@ -189,6 +189,27 @@ Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de
 
 ---------------------------------------------------------------------------
 
+### Sprint Retrospective
+
+Realizamos la retospective utilizando metroretro la herramienta que aprendimos en clase. Decidimos utilizar el template Open The Box.
+Open The Box analiza todas las actividades que realiza un equipo como parte de sus procesos de trabajo y examina qué cambios se deben realizar para mejorar el desempeño del equipo.
+Dentro de la caja están los procesos, actividades y comportamientos individuales del equipo.
+Abra la caja y pregunte qué artículos se deben quitar, qué se debe agregar y qué se debe reciclar (volver a colocar).
+
+¿Qué deberíamos añadir a la caja? (¿Qué deberíamos empezar a hacer?)
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/954fdb30-3285-4e52-b4a4-d34d999c76dd)
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/909939b8-e93c-4c03-951d-3efc02256806)
+
+¿Qué deberíamos quitar de la caja? (¿Qué debemos dejar de hacer?)
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/5a89b377-df06-488d-bebc-3f5cd956aace)
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/9f3a3c0c-ea06-497b-b123-19d9bc760352)
+
+¿Qué debemos volver a poner? (¿Qué debemos seguir haciendo?)
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/b4e10102-81ea-496c-a4c5-bb4702139a4d)
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/22bff972-fc47-46a2-ad51-283b4afd9d5a)
+
+---------------------------------------------------------------------------
+
 ## Sprint Backlog
 
 Evidencia del Sprint Backlog
