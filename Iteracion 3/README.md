@@ -1,6 +1,6 @@
 # Informe de obligatorio ISA (Sprint 3)
 
-## Fecha de entrega: 2/6/2023
+## Fecha de entrega: 02/06/2023
 
 ---------------------------------------------------------------------------
 
@@ -47,8 +47,8 @@ En la carpeta "Evidencia" hay una carpeta llamada Sprint Planning donde están t
 
 ### Sprint daily
 
-A continuacion vamos a poner una grilla personal donde fuimos registrando lo sucedido en las dailys.
-Dejando en evidencia las tareas en las que estamos trabajando, las que ya finalizamos, si estamos con algun blockeo y los temas hablados en la reunión.
+A continuación vamos a poner una grilla personal donde fuimos registrando lo sucedido en las dailys.
+Dejando en evidencia las tareas en las que estamos trabajando, las que ya finalizamos, si estamos con algún bloqueo y los temas hablados en la reunión.
 
 ![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/0b6b00ad-6f8d-43ff-82b0-c66481990b82)
 
@@ -157,9 +157,9 @@ Prueba del modo de Juego Aleatorio: Evaluar la facilidad con la que los usuarios
 
 Se presenta el link al prototipo funcional de Figma.
 
-https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id=431-714&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A46
+<https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id=431-714&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A46>
 
-### Crear Juego Aleatorio 
+### Crear Juego Aleatorio
 
 | Titulo | Enlace |
 |-------------------|--------|
@@ -175,12 +175,11 @@ https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id
 
 ### Notificaciones
 
-Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de notificaciones ademas de una visualizacion sencilla de cuales notificaiones ya visualizo y cuales aun no. 
+Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de notificaciones ademas de una visualización sencilla de cuales notificaciones ya visualizo y cuales aun no.
 
 | Titulo modificación | Enlace |
 |-------------------|--------|
 | Notificaciones | ![Notificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b01a02a9-c9ca-4155-82bd-d17d0c9e94cd) |
-
 
 ### Update Pantalla de Reserva
 
@@ -218,7 +217,7 @@ Evidencia del Sprint Backlog
 
 ![Horas_Rabunal](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/9db0c9b2-5d55-44b6-b41b-d65357e21e89)
 
-#### Sebastian Silveira
+#### Sebastian Silvera
 
 ![Horas_Silvera](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/8fae9542-56c4-47ce-b2ed-a608bcfa6821)
 
