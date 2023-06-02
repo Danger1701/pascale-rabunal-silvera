@@ -133,9 +133,44 @@ En función a las recomendaciones utilizaremos el siguiente articulo para defini
 
 ---------------------------------------------------------------------------
 
+#### Encuesta de usabilidad YaCancha por usuarios
+
+A través de esta encuesta que realizamos a usuarios habituales de aplicaciones similares, hemos recopilado información valiosa y opiniones clave que nos han permitido evaluar la satisfacción de los usuarios con el prototipo de la aplicación. Los resultados han sido muy alentadores, ya que la mayoría de los encuestados expresaron una alta satisfacción general con la propuesta.
+
+En particular, las características como el inicio de sesión de usuario, la búsqueda de canchas con filtros y la función del Modo Juego Aleatorio, fueron altamente valoradas por su utilidad y conveniencia.
+
+Además, hemos tomado en cuenta las sugerencias y comentarios recibidos
+
+Link a encuesta: <https://forms.gle/HqoGtMQvhambT4sTA>
+
+#### Resultados de encuesta de usabilidad
+
+![Aleatrorio_01](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/3e420d5f-97d3-444a-8c0f-2c79481cec3d)
+![Aleatrorio_02](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/9344b0be-a3a9-4874-8051-077f005d70aa)
+
+##### Aleatrorio
+
+##### App
+
+![App_01](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/6c4ccbcd-2291-452d-9c8f-b393ee186e56)
+![App_02](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/d6571f40-3e61-4903-8ea5-72791939ec83)
+![App_03](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/65546355-e5f6-4a58-988a-5f2daba0f7d9)
+
+##### Cancelacion
+
+![Cancela_01](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/6c400068-81d3-47cc-b8c7-9d40c20eaa58)
+![Cancela_02](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/e978c0de-845d-41f1-aa51-f91a58a36774)
+
+##### Notificacion
+
+![Notificacion_01](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/e215c878-6464-4312-ae08-307eebee1589)
+![Notificacion_02](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/0f44b670-4092-4565-b48e-cdbfb6fbae33)
+
+---------------------------------------------------------------------------
+
 #### Pruebas de usabilidad YaCancha por usuarios
 
-Pruebas de usabilidad que aplicaremos, utilizando como guía <https://www.nngroup.com/articles/better-usability-tasks/>:
+Pruebas de usabilidad que aplicaremos, utilizando como guía <https://www.nngroup.com/articles/better-usability-tasks/> y aplicando la observacion mientras los usuarios realizaban la encuesta mencionada anteriormente. 
 
 Prueba de navegación: Evaluar la facilidad con la que los usuarios pueden moverse por la aplicación, acceder a diferentes secciones y utilizar las funciones de navegación, como botones de retroceso y menús desplegables.
 
@@ -147,9 +182,19 @@ Prueba de reserva de canchas: Verificar la facilidad con la que los usuarios pue
 
 Prueba del modo de Juego Aleatorio: Evaluar la facilidad con la que los usuarios pueden seleccionar el modo de juego aleatorio, ver el progreso de otros jugadores y unirse a los partidos. Identificar posibles problemas de visualización de información o dificultades en la interacción con otros usuarios.
 
-#### Encuesta de usabilidad YaCancha por usuarios
+#### Resultados de pruebas de usabilidad
 
-#### Resultados de encuesta de usabilidad
+Durante la evaluación de la navegación, los usuarios pudieron desplazarse por la aplicación sin dificultades, acceder a diferentes secciones y utilizar las funciones de navegación de manera fluida. Los botones de retroceso y los menús desplegables fueron intuitivos y fáciles de usar.
+
+En la prueba de registro y autenticación, los usuarios se registraron de forma sencilla, completaron los campos requeridos y accedieron a sus cuentas sin obstáculos relevantes. Se identificaron y solucionaron algunos errores menores en el proceso de inicio de sesión para mejorar la experiencia del usuario.
+
+La prueba de búsqueda de canchas demostró que la función de búsqueda fue efectiva, con filtros intuitivos y resultados precisos. Los usuarios encontraron fácilmente las canchas que se ajustaban a sus criterios de búsqueda.
+
+En la prueba de reserva de canchas, los usuarios experimentaron una gran facilidad al seleccionar una cancha, elegir una fecha y hora de reserva, y completar el proceso sin confusiones o dificultades importantes. La experiencia de reserva fue fluida y satisfactoria.
+
+En la prueba del modo de Juego Aleatorio, los usuarios pudieron seleccionar esta opción sin dificultad, unirse a los partidos sin problemas significativos. La interacción con otros usuarios y la visualización de la información fueron satisfactorias.
+
+Basados en los resultados de estas pruebas de usabilidad, estamos contentos con el rendimiento de nuestro prototipo.
 
 ---------------------------------------------------------------------------
 
