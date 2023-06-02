@@ -81,6 +81,10 @@ Trabajaremos sobre “develop”, donde cada miembro creara sus ramas y trabaja 
 
 Al finalizar cada sprint “develop” será mergeada a “main”.
 
+Borrar las ramas que ya integradas
+
+![Repositorio del proyecto_01](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/df8a0c9e-c365-4b71-922a-aac28feb8582)
+
 #### Descripción de los PRs
 
 En función a las recomendaciones utilizaremos el siguiente articulo para definir como deben ser las descripciones de los PRs
@@ -107,21 +111,23 @@ En función a las recomendaciones utilizaremos el siguiente articulo para defini
 
 <https://code.erpenbeck.io/git/2021/03/01/git-naming-conventions/>
 
-**1. Para nombrar las ramas:
+1. Para nombrar las ramas:
 
     - Los nombres deben ser descriptivos y concisos.
     - Utilizar minúsculas y separa las palabras con guiones.
     - Agregar prefijos como "feature/" para nuevas características, "bugfix/" para correcciones de errores, "hotfix/" para soluciones urgentes, entre otros.
     - Evitar nombres genéricos o ambiguos y eligir nombres que reflejen el propósito o contenido de la rama.
 
-**2. Para nombrar los commits:
+![Repositorio del proyecto_02](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/be2e62d1-75c2-4efc-8eb0-a28738105797)
+
+2. Para nombrar los commits:
 
     - Los nombres deben ser claros y descriptivos.
     - Utilizar verbos en tiempo presente para indicar la acción realizada, seguidos de una breve descripción del cambio.
     - Limitar la longitud a unos 50 caracteres.
     - Evitar agregar información innecesaria o detalles irrelevantes.
 
-**3. Para nombrar los Pull Requests:
+3. Para nombrar los Pull Requests:
 
     - Comenzar con un prefijo que indique el propósito, como "Feature:", "Fix:", "Docs:", etc.
     - Continuar con una breve descripción del cambio o problema que aborda.
