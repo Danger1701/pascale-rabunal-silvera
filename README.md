@@ -655,3 +655,10 @@ A continuación se demuestra evidencia del uso de los principios de manejo de ve
 ![Control version_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/3dce3c1a-c526-4510-8ee9-1f607e6cf46a)
 ![Control version_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/73ac2452-532c-42c9-8e22-7bf3743509ab)
 
+
+### Update Pantalla de Reserva
+
+| Descripción                    | Enlace                                                                                                       |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Update Pantalla de Reserva     | ![Update Pantalla de Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/114319c1-1c25-4fd4-8861-a3865c62e218)        |
+
