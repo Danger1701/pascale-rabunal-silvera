@@ -188,3 +188,16 @@ Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de
 |-------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Update Pantalla de Reserva     | ![Update Pantalla de Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/114319c1-1c25-4fd4-8861-a3865c62e218)        |
 
+
+
+
+---------------------------------------------------------------------------
+
+### Sprint Retrospective
+
+Realizamos la retospective utilizando metroretro la herramienta que aprendimos en clase. Decidimos utilizar el template Open The Box.
+Open The Box analiza todas las actividades que realiza un equipo como parte de sus procesos de trabajo y examina qué cambios se deben realizar para mejorar el desempeño del equipo. 
+Dentro de la caja están los procesos, actividades y comportamientos individuales del equipo. 
+Abra la caja y pregunte qué artículos se deben quitar, qué se debe agregar y qué se debe reciclar (volver a colocar).
+
+¿Qué deberíamos añadir a la caja? (¿Qué deberíamos empezar a hacer?)
