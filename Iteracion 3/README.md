@@ -108,7 +108,7 @@ En función a las recomendaciones utilizaremos el siguiente articulo para defini
 
 <https://code.erpenbeck.io/git/2021/03/01/git-naming-conventions/>
 
-1.Para nombrar las ramas:
+1. Para nombrar las ramas:
 
     - Los nombres deben ser descriptivos y concisos.
     - Utilizar minúsculas y separa las palabras con guiones.
@@ -117,14 +117,14 @@ En función a las recomendaciones utilizaremos el siguiente articulo para defini
 
 ![Repositorio del proyecto_02](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/be2e62d1-75c2-4efc-8eb0-a28738105797)
 
-2.Para nombrar los commits:
+2. Para nombrar los commits:
 
     - Los nombres deben ser claros y descriptivos.
     - Utilizar verbos en tiempo presente para indicar la acción realizada, seguidos de una breve descripción del cambio.
     - Limitar la longitud a unos 50 caracteres.
     - Evitar agregar información innecesaria o detalles irrelevantes.
 
-3.Para nombrar los Pull Requests:
+3. Para nombrar los Pull Requests:
 
     - Comenzar con un prefijo que indique el propósito, como "Feature:", "Fix:", "Docs:", etc.
     - Continuar con una breve descripción del cambio o problema que aborda.
@@ -194,15 +194,17 @@ Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de
 
 Evidencia del Sprint Backlog
 
-
+![Sprint Backlog_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/45d0fb46-17b1-48a9-9093-303646a4b687)
 
 ## Boards
 
-
+![Boards_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/0b5aa47a-54aa-4f70-8848-3a573a9c1ee4)
 
 ## Burndown Trend
 
+![Burndown Trend _1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/f35ea847-11cc-483e-8bbc-bc1f6e2a9691)
 
+![Burndown Trend _2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/71778460-be63-4aef-a672-7fae2f3f69aa)
 
 ## Dedicación del equipo
 
@@ -210,24 +212,28 @@ Evidencia del Sprint Backlog
 
 #### Maximiliano Pascale
 
-
+![Horas_Pascale](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/c771fb49-c63c-4a63-9d6b-85ea28ec1f00)
 
 #### Juan Manuel Rabuñal
 
-
+![Horas_Rabunal](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/9db0c9b2-5d55-44b6-b41b-d65357e21e89)
 
 #### Sebastian Silveira
 
-
+![Horas_Silvera](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/8fae9542-56c4-47ce-b2ed-a608bcfa6821)
 
 ### Dedicación equipo
 
 Dedicación de horas acumuladas por el equipo.
 
+![Horas_Equipo](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/44a5c6f7-7bd5-442e-ae5a-5fb925b71192)
 
+![Horas_Equipo_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/a2e4e7a3-b274-47c5-90cc-2fa4e854aa5f)
 
 ## Evidencia de manejo de versiones
 
 A continuación se demuestra evidencia del uso de los principios de manejo de versiones adoptados por el equipo.
 
+![Control version_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/cc9c564e-ee87-441e-8f4d-0e49793112fc)
 
+![Control version_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/8dac9fc4-bdbe-4e9a-b766-ccb21b51d930)
