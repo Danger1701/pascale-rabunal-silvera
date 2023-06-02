@@ -57,7 +57,7 @@ Sebastian Silvera
 
 ---------------------------------------------------------------------------
 
-### Link Prototipo Funcional
+### Prototipo Funcional
 
 Se presenta el link al prototipo funcional de Figma 
 
