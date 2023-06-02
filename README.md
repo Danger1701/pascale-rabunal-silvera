@@ -111,7 +111,7 @@ En función a las recomendaciones utilizaremos el siguiente articulo para defini
 
 <https://code.erpenbeck.io/git/2021/03/01/git-naming-conventions/>
 
-1. Para nombrar las ramas:
+1.Para nombrar las ramas:
 
     - Los nombres deben ser descriptivos y concisos.
     - Utilizar minúsculas y separa las palabras con guiones.
@@ -120,14 +120,14 @@ En función a las recomendaciones utilizaremos el siguiente articulo para defini
 
 ![Repositorio del proyecto_02](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/be2e62d1-75c2-4efc-8eb0-a28738105797)
 
-2. Para nombrar los commits:
+2.Para nombrar los commits:
 
     - Los nombres deben ser claros y descriptivos.
     - Utilizar verbos en tiempo presente para indicar la acción realizada, seguidos de una breve descripción del cambio.
     - Limitar la longitud a unos 50 caracteres.
     - Evitar agregar información innecesaria o detalles irrelevantes.
 
-3. Para nombrar los Pull Requests:
+3.Para nombrar los Pull Requests:
 
     - Comenzar con un prefijo que indique el propósito, como "Feature:", "Fix:", "Docs:", etc.
     - Continuar con una breve descripción del cambio o problema que aborda.
@@ -639,7 +639,6 @@ Link a encuesta: <https://docs.google.com/forms/d/e/1FAIpQLSfVwug9xuKzRgaWvpiltp
 
 ### Sprint Review
 
-
 Durante la revisión del sprint, el equipo de Scrum y los interesados examinamos los logros alcanzados durante el sprint y los cambios ocurridos en nuestro entorno. Entre los avances destacados, hemos construido y validado posibles soluciones del MVP a través de prototipos específicos para nuestra aplicación de reserva de canchas de fútbol.
 
 En particular, hemos desarrollado prototipos que ofrecen soluciones para entregar valor y resolver el problema identificado. 
@@ -659,6 +658,7 @@ Resultados de I like - ¿Cuáles fueron las cosas buenas que sucedieron?
 ![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/7d0824c4-a1e4-4e90-a049-e204c39420c0)
 
 Conclusiones:
+
 - Mejoro la comunicación entre el equipo
 - Mejor organización
 - Mayor fluidez comparado con el sprint anterior
@@ -668,6 +668,7 @@ Resultado de I Wolud - ¿Cuáles son algunas de las cosas que te gustaría que s
 ![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/c4bfc072-2837-4da9-a2cf-1aa91e4a81d0)
 
 Conclusiones:
+
 - seguir mejorando la comunicación entre el equipo
 - Lograr una buena experiencia de usuario
 - Poder culminar las tareas en tiempo y forma

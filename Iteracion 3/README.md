@@ -108,7 +108,7 @@ En función a las recomendaciones utilizaremos el siguiente articulo para defini
 
 <https://code.erpenbeck.io/git/2021/03/01/git-naming-conventions/>
 
-1. Para nombrar las ramas:
+1.Para nombrar las ramas:
 
     - Los nombres deben ser descriptivos y concisos.
     - Utilizar minúsculas y separa las palabras con guiones.
@@ -117,16 +117,36 @@ En función a las recomendaciones utilizaremos el siguiente articulo para defini
 
 ![Repositorio del proyecto_02](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/be2e62d1-75c2-4efc-8eb0-a28738105797)
 
-2. Para nombrar los commits:
+2.Para nombrar los commits:
 
     - Los nombres deben ser claros y descriptivos.
     - Utilizar verbos en tiempo presente para indicar la acción realizada, seguidos de una breve descripción del cambio.
     - Limitar la longitud a unos 50 caracteres.
     - Evitar agregar información innecesaria o detalles irrelevantes.
 
-3. Para nombrar los Pull Requests:
+3.Para nombrar los Pull Requests:
 
     - Comenzar con un prefijo que indique el propósito, como "Feature:", "Fix:", "Docs:", etc.
     - Continuar con una breve descripción del cambio o problema que aborda.
     - Utilizar un estilo conciso y claro.
     - Evitar incluir información técnica compleja en el título del PR, reservar esos detalles para la descripción del PR.
+
+---------------------------------------------------------------------------
+
+#### Pruebas de usabilidad YaCancha por usuarios
+
+Pruebas de usabilidad que aplicaremos, utilizando como guía <https://www.nngroup.com/articles/better-usability-tasks/>:
+
+Prueba de navegación: Evaluar la facilidad con la que los usuarios pueden moverse por la aplicación, acceder a diferentes secciones y utilizar las funciones de navegación, como botones de retroceso y menús desplegables.
+
+Prueba de registro y autenticación: Verificar si los usuarios pueden registrarse de manera sencilla, completar los campos requeridos y acceder a sus cuentas con facilidad. Identificar posibles obstáculos o errores en el proceso de inicio de sesión.
+
+Prueba de búsqueda de canchas: Evaluar la eficacia de la función de búsqueda de canchas, incluyendo la usabilidad de los filtros y la precisión de los resultados obtenidos.
+
+Prueba de reserva de canchas: Verificar la facilidad con la que los usuarios pueden seleccionar una cancha, elegir una fecha y hora de reserva, y completar el proceso de reserva sin confusiones ni dificultades.
+
+Prueba del modo de Juego Aleatorio: Evaluar la facilidad con la que los usuarios pueden seleccionar el modo de juego aleatorio, ver el progreso de otros jugadores y unirse a los partidos. Identificar posibles problemas de visualización de información o dificultades en la interacción con otros usuarios.
+
+#### Encuesta de usabilidad YaCancha por usuarios
+
+#### Resultados de encuesta de usabilidad
