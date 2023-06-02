@@ -81,9 +81,72 @@ Trabajaremos sobre “develop”, donde cada miembro creara sus ramas y trabaja 
 
 Al finalizar cada sprint “develop” será mergeada a “main”.
 
+Borrar las ramas que ya integradas
+
+![Repositorio del proyecto_01](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/df8a0c9e-c365-4b71-922a-aac28feb8582)
+
+#### Descripción de los PRs
+
+En función a las recomendaciones utilizaremos el siguiente articulo para definir como deben ser las descripciones de los PRs
+
+Articulo: <https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository>
+
+Puntos clave para redactar la descripción de los PRs:
+
+- Propósito del PR: Explicar de manera clara el propósito del PR, describiendo el problema que soluciona, la función que agrega o la mejora que implementa. Esto brinda contexto a los revisores y colaboradores.
+
+- Cambios realizados: Detallar específicamente los cambios efectuados, junto con cualquier detalle relevante.
+
+- Impacto y dependencias: Es importante mencionar si el PR tiene algún impacto en otras partes de las funcionalidades existentes.
+
+- Si el PR depende de otros PRs, debe ser informado.
+
+- Instrucciones para revisores: Proporciona orientación clara a los revisores sobre cómo evaluar y probar los cambios. Esto puede incluir detalles sobre la configuración necesaria, comandos específicos que deben ejecutarse u otros requisitos relevantes.
+
+- Capturas de pantalla (opcional): Si es relevante, incluir capturas de pantalla que muestren visualmente los cambios realizados. Esto puede ser especialmente útil en cambios relacionados con la interfaz de usuario.
+
+#### Nombre de ramas, commits y PRs
+
+En función a las recomendaciones utilizaremos el siguiente articulo para definir como deben ser los nombre de ramas, commits y PRs
+
+<https://code.erpenbeck.io/git/2021/03/01/git-naming-conventions/>
+
+1.Para nombrar las ramas:
+
+    - Los nombres deben ser descriptivos y concisos.
+    - Utilizar minúsculas y separa las palabras con guiones.
+    - Agregar prefijos como "feature/" para nuevas características, "bugfix/" para correcciones de errores, "hotfix/" para soluciones urgentes, entre otros.
+    - Evitar nombres genéricos o ambiguos y eligir nombres que reflejen el propósito o contenido de la rama.
+
+![Repositorio del proyecto_02](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/be2e62d1-75c2-4efc-8eb0-a28738105797)
+
+2.Para nombrar los commits:
+
+    - Los nombres deben ser claros y descriptivos.
+    - Utilizar verbos en tiempo presente para indicar la acción realizada, seguidos de una breve descripción del cambio.
+    - Limitar la longitud a unos 50 caracteres.
+    - Evitar agregar información innecesaria o detalles irrelevantes.
+
+3.Para nombrar los Pull Requests:
+
+    - Comenzar con un prefijo que indique el propósito, como "Feature:", "Fix:", "Docs:", etc.
+    - Continuar con una breve descripción del cambio o problema que aborda.
+    - Utilizar un estilo conciso y claro.
+    - Evitar incluir información técnica compleja en el título del PR, reservar esos detalles para la descripción del PR.
+
 ---------------------------------------------------------------------------
 
 ## Identificación del problema a resolver
+
+### Propuesta de valor
+
+Experiencia de usuario intuitiva: La aplicación se destacará por ofrecer una interfaz de usuario fácil de usar, con un proceso de reserva rápido y sencillo, priorizando la experiencia del usuario, para que cualquier persona, independientemente de su edad o habilidades tecnológicas, pueda navegar y reservar canchas sin dificultad.
+
+Funcionalidad de Modo Juego Aleatorio: Una característica única de la aplicación será el Modo Juego Aleatorio, donde los usuarios podrán unirse a actividades deportivas junto con otros usuarios de forma aleatoria. Esto fomentará la interacción social, permitiendo que los jugadores se conozcan y disfruten de la actividad deportiva en un entorno inclusivo.
+
+Lista de canchas favoritas y recomendaciones personalizadas: La aplicación permitirá a los usuarios guardar sus canchas favoritas para acceder rápidamente a ellas en el futuro.
+
+Interacción social y funciones de invitación: La aplicación facilitará la interacción social entre los usuarios, permitiéndoles invitar a amigos y contactos a unirse a sus reservas o juegos. Esto fomentará la participación en grupo y hará que la experiencia deportiva sea más divertida y social.
 
 ### Características deseadas de la población uruguaya
 
@@ -576,7 +639,6 @@ Link a encuesta: <https://docs.google.com/forms/d/e/1FAIpQLSfVwug9xuKzRgaWvpiltp
 
 ### Sprint Review
 
-
 Durante la revisión del sprint, el equipo de Scrum y los interesados examinamos los logros alcanzados durante el sprint y los cambios ocurridos en nuestro entorno. Entre los avances destacados, hemos construido y validado posibles soluciones del MVP a través de prototipos específicos para nuestra aplicación de reserva de canchas de fútbol.
 
 En particular, hemos desarrollado prototipos que ofrecen soluciones para entregar valor y resolver el problema identificado. 
@@ -596,6 +658,7 @@ Resultados de I like - ¿Cuáles fueron las cosas buenas que sucedieron?
 ![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/7d0824c4-a1e4-4e90-a049-e204c39420c0)
 
 Conclusiones:
+
 - Mejoro la comunicación entre el equipo
 - Mejor organización
 - Mayor fluidez comparado con el sprint anterior
@@ -605,6 +668,7 @@ Resultado de I Wolud - ¿Cuáles son algunas de las cosas que te gustaría que s
 ![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/c4bfc072-2837-4da9-a2cf-1aa91e4a81d0)
 
 Conclusiones:
+
 - seguir mejorando la comunicación entre el equipo
 - Lograr una buena experiencia de usuario
 - Poder culminar las tareas en tiempo y forma
@@ -663,7 +727,7 @@ Se presenta el link al prototipo funcional de Figma.
 
 https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id=431-714&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A46
 
-### Creacion Juego Aleatorio 
+### Crear Juego Aleatorio 
 
 | Titulo | Enlace |
 |-------------------|--------|
@@ -681,10 +745,10 @@ https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id
 
 Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de notificaciones ademas de una visualizacion sencilla de cuales notificaiones ya visualizo y cuales aun no. 
 
-
 | Titulo modificacion | Enlace |
 |-------------------|--------|
 | Notificaciones | ![Notificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b01a02a9-c9ca-4155-82bd-d17d0c9e94cd) |
+
 
 ### Update Pantalla de Reserva
 
