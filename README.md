@@ -189,7 +189,7 @@ Es importante aclarar, que estas características son las deseadas por los entre
 Los usuarios finales son las personas que utilizarán la aplicación para reservar canchas deportivas.
 Algunas de las funcionalidades que surgen de la entrevista son:
 
-    - Búsqueda de canchas deportivas por ubicación y deporte , disopnibilidad.
+    - Búsqueda de canchas deportivas por ubicación y deporte , disponibilidad.
     - Reserva de canchas deportivas en tiempo real.
     - Cancelación de reservas.
     - Pago en línea seguro.
@@ -204,7 +204,7 @@ Algunas de las funcionalidades que surgen de la entrevista son:
 
     - Registro y publicación de sus canchas deportivas en la aplicación.
     - Edición de información y precios de sus canchas deportivas.
-    - Gestion de precios y descuentos disponibles
+    - Gestión de precios y descuentos disponibles
     - Gestión de reservas y cancelaciones.
     - Pago en línea seguro.
     - Comunicación en tiempo real con los usuarios finales.
@@ -215,8 +215,8 @@ Los organizadores de eventos deportivos podrían estar interesados en la aplicac
 Algunas de las funcionalidades que surgen de la entrevista son:
 
     - Publicación y promoción de sus eventos deportivos en la aplicación.
-    - Poder conocer datos estadisticos de los usuarios o posibles interesados.
-    - Integracion con redes sociales como Instagram o Facebook.
+    - Poder conocer datos estadísticos de los usuarios o posibles interesados.
+    - Integración con redes sociales como Instagram o Facebook.
     - Gestión de reservas y cancelaciones de sus eventos deportivos.
     - Pago en línea seguro.
     - Valoraciones y comentarios de los participantes.
@@ -437,7 +437,7 @@ Decidimos elegir el nombre de Ya Cancha por las siguientes razones:
   
 ### Logotipo de la app y paleta de colores
 
-Luego de tomar la decision de escoger el nombre, decidimos elegir un logotipo claro y sencillo que muestre las intensiones de nuestra aplicacion.
+Luego de tomar la decision de escoger el nombre, decidimos elegir un logotipo claro y sencillo que muestre las intensiones de nuestra aplicación.
 Decidimos utilizar una letra sencilla que sea un poco mas descontracturada de lo usual, acompañado de una paleta de colores asociada al deporte (Verde y blanco).
 
 ![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/b05a3a5b-ac7e-46dd-97d9-0078d9551e82)
@@ -641,7 +641,7 @@ Link a encuesta: <https://docs.google.com/forms/d/e/1FAIpQLSfVwug9xuKzRgaWvpiltp
 
 Durante la revisión del sprint, el equipo de Scrum y los interesados examinamos los logros alcanzados durante el sprint y los cambios ocurridos en nuestro entorno. Entre los avances destacados, hemos construido y validado posibles soluciones del MVP a través de prototipos específicos para nuestra aplicación de reserva de canchas de fútbol.
 
-En particular, hemos desarrollado prototipos que ofrecen soluciones para entregar valor y resolver el problema identificado. 
+En particular, hemos desarrollado prototipos que ofrecen soluciones para entregar valor y resolver el problema identificado.
 También hemos realizado inspecciones del producto que incluyen instancias de validación con usuarios reales, recolectando sus comentarios y realizando ajustes finales a los prototipos.
 Ademas les pedimos si podían poner sugerencias y aspectos que no le gusten para poder mejorar aun mas la experiencia del usuario.
 
@@ -721,17 +721,75 @@ A continuación se demuestra evidencia del uso de los principios de manejo de ve
 
 ---------------------------------------------------------------------------
 
+# Informe de obligatorio ISA (Sprint 3)
+
+## Fecha de entrega: 02/06/2023
+
+---------------------------------------------------------------------------
+
+### Sprint planning
+
+Fecha: 22/05/2023
+Hora: 18:00
+Duración: 1h
+
+Objetivos de la misma:
+
+- Corregir los issues de la devolución
+- Terminar el prototipo funcional
+- Funcionalidad Juego aleatorio
+- Funcionalidad de notificaciones
+
+En dicho orden debe ser la prioridad
+
+Dinámica:
+Leímos todas las issues a corregir y realizamos puestas en común de cómo mejorarlo.
+Luego comenzamos la estimación donde nos pusimos de acuerdo luego de votar, si hay diferencia entre las tarjetas en algunas ocasiones optamos por dejar el promedio y el otras elegimos un valor justificado por el argumento de el que lo voto.
+
+En la carpeta "Evidencia" hay una carpeta llamada Sprint Planning donde están todas las fotos de la evidencia de la planning poker.
+
+---------------------------------------------------------------------------
+
+### Sprint daily
+
+A continuación vamos a poner una grilla personal donde fuimos registrando lo sucedido en las dailys.
+Dejando en evidencia las tareas en las que estamos trabajando, las que ya finalizamos, si estamos con algún bloqueo y los temas hablados en la reunión.
+
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/0b6b00ad-6f8d-43ff-82b0-c66481990b82)
+
+---------------------------------------------------------------------------
+
+#### Pruebas de usabilidad YaCancha por usuarios
+
+Pruebas de usabilidad que aplicaremos, utilizando como guía <https://www.nngroup.com/articles/better-usability-tasks/>:
+
+Prueba de navegación: Evaluar la facilidad con la que los usuarios pueden moverse por la aplicación, acceder a diferentes secciones y utilizar las funciones de navegación, como botones de retroceso y menús desplegables.
+
+Prueba de registro y autenticación: Verificar si los usuarios pueden registrarse de manera sencilla, completar los campos requeridos y acceder a sus cuentas con facilidad. Identificar posibles obstáculos o errores en el proceso de inicio de sesión.
+
+Prueba de búsqueda de canchas: Evaluar la eficacia de la función de búsqueda de canchas, incluyendo la usabilidad de los filtros y la precisión de los resultados obtenidos.
+
+Prueba de reserva de canchas: Verificar la facilidad con la que los usuarios pueden seleccionar una cancha, elegir una fecha y hora de reserva, y completar el proceso de reserva sin confusiones ni dificultades.
+
+Prueba del modo de Juego Aleatorio: Evaluar la facilidad con la que los usuarios pueden seleccionar el modo de juego aleatorio, ver el progreso de otros jugadores y unirse a los partidos. Identificar posibles problemas de visualización de información o dificultades en la interacción con otros usuarios.
+
+#### Encuesta de usabilidad YaCancha por usuarios
+
+#### Resultados de encuesta de usabilidad
+
+---------------------------------------------------------------------------
+
 ### Prototipo Funcional
 
 Se presenta el link al prototipo funcional de Figma.
 
-https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id=431-714&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A46
+<https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id=431-714&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A46>
 
-### Crear Juego Aleatorio 
+### Crear Juego Aleatorio
 
 | Titulo | Enlace |
 |-------------------|--------|
-| Modificacion Inicio | ![Modificacion Inicio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3123caf1-0ac5-4feb-a1da-18a6cfa9f114) |
+| Modificación Inicio | ![Modificacion Inicio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3123caf1-0ac5-4feb-a1da-18a6cfa9f114) |
 | JuegoAleatorio | ![JuegoAleatorio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/bdef91ee-854e-4051-9b23-0489ecd3b872) |
 
 ### Unirse a Juego Aleatorio
@@ -743,12 +801,11 @@ https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id
 
 ### Notificaciones
 
-Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de notificaciones ademas de una visualizacion sencilla de cuales notificaiones ya visualizo y cuales aun no. 
+Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de notificaciones ademas de una visualización sencilla de cuales notificaciones ya visualizo y cuales aun no.
 
-| Titulo modificacion | Enlace |
+| Titulo modificación | Enlace |
 |-------------------|--------|
 | Notificaciones | ![Notificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b01a02a9-c9ca-4155-82bd-d17d0c9e94cd) |
-
 
 ### Update Pantalla de Reserva
 
@@ -756,3 +813,73 @@ Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de
 |-------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Update Pantalla de Reserva     | ![Update Pantalla de Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/114319c1-1c25-4fd4-8861-a3865c62e218)        |
 
+---------------------------------------------------------------------------
+
+### Sprint Retrospective
+
+Realizamos la retospective utilizando metroretro la herramienta que aprendimos en clase. Decidimos utilizar el template Open The Box.
+Open The Box analiza todas las actividades que realiza un equipo como parte de sus procesos de trabajo y examina qué cambios se deben realizar para mejorar el desempeño del equipo.
+Dentro de la caja están los procesos, actividades y comportamientos individuales del equipo.
+Abra la caja y pregunte qué artículos se deben quitar, qué se debe agregar y qué se debe reciclar (volver a colocar).
+
+¿Qué deberíamos añadir a la caja? (¿Qué deberíamos empezar a hacer?)
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/954fdb30-3285-4e52-b4a4-d34d999c76dd)
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/909939b8-e93c-4c03-951d-3efc02256806)
+
+¿Qué deberíamos quitar de la caja? (¿Qué debemos dejar de hacer?)
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/5a89b377-df06-488d-bebc-3f5cd956aace)
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/9f3a3c0c-ea06-497b-b123-19d9bc760352)
+
+¿Qué debemos volver a poner? (¿Qué debemos seguir haciendo?)
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/b4e10102-81ea-496c-a4c5-bb4702139a4d)
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/22bff972-fc47-46a2-ad51-283b4afd9d5a)
+
+---------------------------------------------------------------------------
+
+## Sprint Backlog
+
+Evidencia del Sprint Backlog
+
+![Sprint Backlog_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/45d0fb46-17b1-48a9-9093-303646a4b687)
+
+## Boards
+
+![Boards_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/0b5aa47a-54aa-4f70-8848-3a573a9c1ee4)
+
+## Burndown Trend
+
+![Burndown Trend _1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/f35ea847-11cc-483e-8bbc-bc1f6e2a9691)
+
+![Burndown Trend _2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/71778460-be63-4aef-a672-7fae2f3f69aa)
+
+## Dedicación del equipo
+
+### Dedicación por integrantes del equipo
+
+#### Maximiliano Pascale
+
+![Horas_Pascale](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/c771fb49-c63c-4a63-9d6b-85ea28ec1f00)
+
+#### Juan Manuel Rabuñal
+
+![Horas_Rabunal](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/9db0c9b2-5d55-44b6-b41b-d65357e21e89)
+
+#### Sebastian Silveira
+
+![Horas_Silvera](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/8fae9542-56c4-47ce-b2ed-a608bcfa6821)
+
+### Dedicación equipo
+
+Dedicación de horas acumuladas por el equipo.
+
+![Horas_Equipo](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/44a5c6f7-7bd5-442e-ae5a-5fb925b71192)
+
+![Horas_Equipo_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/a2e4e7a3-b274-47c5-90cc-2fa4e854aa5f)
+
+## Evidencia de manejo de versiones
+
+A continuación se demuestra evidencia del uso de los principios de manejo de versiones adoptados por el equipo.
+
+![Control version_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/cc9c564e-ee87-441e-8f4d-0e49793112fc)
+
+![Control version_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/8dac9fc4-bdbe-4e9a-b766-ccb21b51d930)

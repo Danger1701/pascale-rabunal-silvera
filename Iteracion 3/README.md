@@ -1,6 +1,6 @@
 # Informe de obligatorio ISA (Sprint 3)
 
-## Fecha de entrega: 2/6/2023
+## Fecha de entrega: 02/06/2023
 
 ---------------------------------------------------------------------------
 
@@ -47,8 +47,8 @@ En la carpeta "Evidencia" hay una carpeta llamada Sprint Planning donde están t
 
 ### Sprint daily
 
-A continuacion vamos a poner una grilla personal donde fuimos registrando lo sucedido en las dailys.
-Dejando en evidencia las tareas en las que estamos trabajando, las que ya finalizamos, si estamos con algun blockeo y los temas hablados en la reunión.
+A continuación vamos a poner una grilla personal donde fuimos registrando lo sucedido en las dailys.
+Dejando en evidencia las tareas en las que estamos trabajando, las que ya finalizamos, si estamos con algún bloqueo y los temas hablados en la reunión.
 
 ![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/0b6b00ad-6f8d-43ff-82b0-c66481990b82)
 
@@ -108,7 +108,7 @@ En función a las recomendaciones utilizaremos el siguiente articulo para defini
 
 <https://code.erpenbeck.io/git/2021/03/01/git-naming-conventions/>
 
-1.Para nombrar las ramas:
+1. Para nombrar las ramas:
 
     - Los nombres deben ser descriptivos y concisos.
     - Utilizar minúsculas y separa las palabras con guiones.
@@ -117,14 +117,14 @@ En función a las recomendaciones utilizaremos el siguiente articulo para defini
 
 ![Repositorio del proyecto_02](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/be2e62d1-75c2-4efc-8eb0-a28738105797)
 
-2.Para nombrar los commits:
+2. Para nombrar los commits:
 
     - Los nombres deben ser claros y descriptivos.
     - Utilizar verbos en tiempo presente para indicar la acción realizada, seguidos de una breve descripción del cambio.
     - Limitar la longitud a unos 50 caracteres.
     - Evitar agregar información innecesaria o detalles irrelevantes.
 
-3.Para nombrar los Pull Requests:
+3. Para nombrar los Pull Requests:
 
     - Comenzar con un prefijo que indique el propósito, como "Feature:", "Fix:", "Docs:", etc.
     - Continuar con una breve descripción del cambio o problema que aborda.
@@ -157,13 +157,13 @@ Prueba del modo de Juego Aleatorio: Evaluar la facilidad con la que los usuarios
 
 Se presenta el link al prototipo funcional de Figma.
 
-https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id=431-714&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A46
+<https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id=431-714&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A46>
 
-### Crear Juego Aleatorio 
+### Crear Juego Aleatorio
 
 | Titulo | Enlace |
 |-------------------|--------|
-| Modificacion Inicio | ![Modificacion Inicio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3123caf1-0ac5-4feb-a1da-18a6cfa9f114) |
+| Modificación Inicio | ![Modificacion Inicio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3123caf1-0ac5-4feb-a1da-18a6cfa9f114) |
 | JuegoAleatorio | ![JuegoAleatorio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/bdef91ee-854e-4051-9b23-0489ecd3b872) |
 
 ### Unirse a Juego Aleatorio
@@ -175,12 +175,11 @@ https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id
 
 ### Notificaciones
 
-Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de notificaciones ademas de una visualizacion sencilla de cuales notificaiones ya visualizo y cuales aun no. 
+Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de notificaciones ademas de una visualización sencilla de cuales notificaciones ya visualizo y cuales aun no.
 
-| Titulo modificacion | Enlace |
+| Titulo modificación | Enlace |
 |-------------------|--------|
 | Notificaciones | ![Notificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b01a02a9-c9ca-4155-82bd-d17d0c9e94cd) |
-
 
 ### Update Pantalla de Reserva
 
@@ -188,16 +187,13 @@ Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de
 |-------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Update Pantalla de Reserva     | ![Update Pantalla de Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/114319c1-1c25-4fd4-8861-a3865c62e218)        |
 
-
-
-
 ---------------------------------------------------------------------------
 
 ### Sprint Retrospective
 
 Realizamos la retospective utilizando metroretro la herramienta que aprendimos en clase. Decidimos utilizar el template Open The Box.
-Open The Box analiza todas las actividades que realiza un equipo como parte de sus procesos de trabajo y examina qué cambios se deben realizar para mejorar el desempeño del equipo. 
-Dentro de la caja están los procesos, actividades y comportamientos individuales del equipo. 
+Open The Box analiza todas las actividades que realiza un equipo como parte de sus procesos de trabajo y examina qué cambios se deben realizar para mejorar el desempeño del equipo.
+Dentro de la caja están los procesos, actividades y comportamientos individuales del equipo.
 Abra la caja y pregunte qué artículos se deben quitar, qué se debe agregar y qué se debe reciclar (volver a colocar).
 
 ¿Qué deberíamos añadir a la caja? (¿Qué deberíamos empezar a hacer?)
@@ -212,5 +208,52 @@ Abra la caja y pregunte qué artículos se deben quitar, qué se debe agregar y 
 ![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/b4e10102-81ea-496c-a4c5-bb4702139a4d)
 ![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/22bff972-fc47-46a2-ad51-283b4afd9d5a)
 
+---------------------------------------------------------------------------
 
+## Sprint Backlog
 
+Evidencia del Sprint Backlog
+
+![Sprint Backlog_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/45d0fb46-17b1-48a9-9093-303646a4b687)
+
+## Boards
+
+![Boards_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/0b5aa47a-54aa-4f70-8848-3a573a9c1ee4)
+
+## Burndown Trend
+
+![Burndown Trend _1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/f35ea847-11cc-483e-8bbc-bc1f6e2a9691)
+
+![Burndown Trend _2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/71778460-be63-4aef-a672-7fae2f3f69aa)
+
+## Dedicación del equipo
+
+### Dedicación por integrantes del equipo
+
+#### Maximiliano Pascale
+
+![Horas_Pascale](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/c771fb49-c63c-4a63-9d6b-85ea28ec1f00)
+
+#### Juan Manuel Rabuñal
+
+![Horas_Rabunal](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/9db0c9b2-5d55-44b6-b41b-d65357e21e89)
+
+#### Sebastian Silvera
+
+![Horas_Silvera](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/8fae9542-56c4-47ce-b2ed-a608bcfa6821)
+
+### Dedicación equipo
+
+Dedicación de horas acumuladas por el equipo.
+
+![Horas_Equipo](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/44a5c6f7-7bd5-442e-ae5a-5fb925b71192)
+
+![Horas_Equipo_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/a2e4e7a3-b274-47c5-90cc-2fa4e854aa5f)
+
+## Evidencia de manejo de versiones
+
+A continuación se demuestra evidencia del uso de los principios de manejo de versiones adoptados por el equipo.
+
+![Control version_1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/cc9c564e-ee87-441e-8f4d-0e49793112fc)
+
+![Control version_2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/8dac9fc4-bdbe-4e9a-b766-ccb21b51d930)
