@@ -163,7 +163,7 @@ https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id
 
 | Titulo | Enlace |
 |-------------------|--------|
-| Modificacion Inicio | ![Modificacion Inicio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3123caf1-0ac5-4feb-a1da-18a6cfa9f114) |
+| Modificación Inicio | ![Modificacion Inicio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/3123caf1-0ac5-4feb-a1da-18a6cfa9f114) |
 | JuegoAleatorio | ![JuegoAleatorio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/bdef91ee-854e-4051-9b23-0489ecd3b872) |
 
 ### Unirse a Juego Aleatorio
@@ -177,7 +177,7 @@ https://www.figma.com/proto/hRuzPMFiU7WcV1k9be08U7/Prototipo?type=design&node-id
 
 Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de notificaciones ademas de una visualizacion sencilla de cuales notificaiones ya visualizo y cuales aun no. 
 
-| Titulo modificacion | Enlace |
+| Titulo modificación | Enlace |
 |-------------------|--------|
 | Notificaciones | ![Notificaciones](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/b01a02a9-c9ca-4155-82bd-d17d0c9e94cd) |
 
@@ -187,4 +187,47 @@ Se agrega un menu de notificaciones donde el usuario puede ver distinto tipos de
 | Descripción                    | Enlace                                                                                                       |
 |-------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Update Pantalla de Reserva     | ![Update Pantalla de Reserva](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/114319c1-1c25-4fd4-8861-a3865c62e218)        |
+
+---------------------------------------------------------------------------
+
+## Sprint Backlog
+
+Evidencia del Sprint Backlog
+
+
+
+## Boards
+
+
+
+## Burndown Trend
+
+
+
+## Dedicación del equipo
+
+### Dedicación por integrantes del equipo
+
+#### Maximiliano Pascale
+
+
+
+#### Juan Manuel Rabuñal
+
+
+
+#### Sebastian Silveira
+
+
+
+### Dedicación equipo
+
+Dedicación de horas acumuladas por el equipo.
+
+
+
+## Evidencia de manejo de versiones
+
+A continuación se demuestra evidencia del uso de los principios de manejo de versiones adoptados por el equipo.
+
 
