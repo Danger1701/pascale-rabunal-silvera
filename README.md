@@ -657,8 +657,12 @@ A continuación se demuestra evidencia del uso de los principios de manejo de ve
 
 ### Unirse a Juego Aleatorio
 
-| Descripcion | Enlace |
-|-------------------|--------|
+### Unirse a Juego Aleatorio
+
+| Descripción              | Enlace                                                                                     |
+|--------------------------|-------------------------------------------------------------------------------------------|
 | Universe A Juego Aleatorio | ![Universe A Juego Aleatorio](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/0be97ba9-b349-4a8c-b0b2-88dd46262bc9) |
+| Unión Correcta            | ![Unión Correcta](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/fa45f289-afc5-4ecf-8c10-0b90b0b8c173)                    |
+
 
 
