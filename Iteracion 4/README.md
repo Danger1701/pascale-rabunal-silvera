@@ -35,6 +35,19 @@ ITERACIÓN 4: Pese a que en esta ultima iteración un compañero se dio de baja 
 
 ---------------------------------------------------------------------------
 
+### Storypoints por sprint
+
+Sprint 1: 22
+Sprint 2: 46
+Sprint 3: 51
+Sprint 4: 28
+   TOTAL: 147
+
+Conclusion:
+El sprint que mas esfuerzo nos requirio fue el tercero y tuvimos un promedio de 37 storypoints por sprint.
+
+---------------------------------------------------------------------------
+
 ### Conclusiones finales
 
 - Pudimos aplicar los conceptos aprendidos en clase de la metodologia agil SCRUM.
