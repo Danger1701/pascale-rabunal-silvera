@@ -60,6 +60,15 @@ Sobrepasando desafios que suceden en el desarrollo de software como utilizacion 
 
 ---------------------------------------------------------------------------
 
+### Video demo del prototipo
+
+Se realizo un video de demostracion explicando el problema a resolver y mostrando el prototipo funcional de la aplicacion.
+Debajo esta el link correspondiente para poder visualizarlo en Teams webstream.
+
+https://fi365-my.sharepoint.com/personal/jr232067_fi365_ort_edu_uy/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjr232067_fi365_ort_edu_uy%2FDocuments%2FDemo_MiniProyectoRabuñalSilvera%2Emp4&referrer=OfficeHome%2EWeb&referrerScenario=UPLOAD
+
+---------------------------------------------------------------------------
+
 ### Sprint planning
 
 Fecha: 04/06/2023
@@ -89,6 +98,7 @@ Dejando en evidencia las tareas en las que estamos trabajando, las que ya finali
 ![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/a513b7f1-d67e-4491-aef6-7ae7e92e6c99)
 
 En la carpeta "Evidencia" hay una carpeta llamada Sprint Daily donde esta todas el documento de la evidencia de las daily meeting.
+
 ---------------------------------------------------------------------------
 
 ### Sprint Retrospective
@@ -137,6 +147,3 @@ Evidencia del Sprint Backlog
 
 Dedicación de horas acumuladas por el equipo.
 
-## Evidencia de manejo de versiones
-
-A continuación se demuestra evidencia del uso de los principios de manejo de versiones adoptados por el equipo.
