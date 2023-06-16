@@ -38,9 +38,13 @@ ITERACIÓN 4: Pese a que en esta ultima iteración un compañero se dio de baja 
 ### Storypoints por sprint
 
 Sprint 1: 22
+
 Sprint 2: 46
+
 Sprint 3: 51
+
 Sprint 4: 28
+
    TOTAL: 147
 
 Conclusion:
@@ -119,6 +123,7 @@ Delta - ¿Qué cambiarías?
 
 ![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/11d17bbc-1467-4931-b721-319af5003ec6)
 
+En la carpeta "Evidencia" hay una carpeta llamada Sprint Retrospective donde están todas las fotos de la evidencia de la ceremonia.
 ---------------------------------------------------------------------------
 
 ## Sprint Backlog
