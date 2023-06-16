@@ -130,13 +130,18 @@ En la carpeta "Evidencia" hay una carpeta llamada Sprint Retrospective donde est
 
 Evidencia del Sprint Backlog
 
+<img width="946" alt="Sprint_Backlog" src="https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/2d1b4d79-897f-49dd-a28d-1764b2c614a1">
 
 ## Boards
+
+<img width="501" alt="Board1 - Copy" src="https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/eab6fb32-447a-4056-aae6-db4bda0a013c">
 
 
 ## Burndown Trend
 
+![BurnDown1](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/62467de9-a325-4aba-a849-71495e24d33e)
 
+![BurnDown2](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/a767db28-c02f-4348-9073-9e884ee214e6)
 
 ## Dedicación del equipo
 
@@ -144,11 +149,14 @@ Evidencia del Sprint Backlog
 
 #### Juan Manuel Rabuñal
 
+![Juan Manuel Rabuñal](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/0edca19b-6873-4bba-ac80-8b76957c91d0)
 
 #### Sebastian Silvera
 
+![Sebastian Silvera](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/c49001b9-95c6-4994-a653-c79e373ef5e4)
 
 ### Dedicación equipo
 
 Dedicación de horas acumuladas por el equipo.
+<img width="839" alt="Dedicación de horas acumuladas por el equipo" src="https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/62801065/ea0174a7-91ed-456f-b995-79548d3c2cf3">
 
