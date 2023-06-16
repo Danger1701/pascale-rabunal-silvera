@@ -69,7 +69,7 @@ Sobrepasando desafios que suceden en el desarrollo de software como utilizacion 
 Se realizo un video de demostracion explicando el problema a resolver y mostrando el prototipo funcional de la aplicacion.
 Debajo esta el link correspondiente para poder visualizarlo en Teams webstream.
 
-https://fi365-my.sharepoint.com/personal/jr232067_fi365_ort_edu_uy/_layouts/15/stream.aspx?id=%2Fpersonal%2Fjr232067_fi365_ort_edu_uy%2FDocuments%2FDemo_MiniProyectoRabuñalSilvera%2Emp4&referrer=OfficeHome%2EWeb&referrerScenario=UPLOAD
+https://fi365-my.sharepoint.com/:v:/g/personal/jr232067_fi365_ort_edu_uy/EcIalFZiU9pCovIkEpv226QBnRV7OMxY5mq19yUtn1VWNA?e=Uoh8yR
 
 ---------------------------------------------------------------------------
 
