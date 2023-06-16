@@ -86,11 +86,28 @@ En la carpeta "Evidencia" hay una carpeta llamada Sprint Planning donde están t
 A continuación vamos a poner una grilla personal donde fuimos registrando lo sucedido en las dailys.
 Dejando en evidencia las tareas en las que estamos trabajando, las que ya finalizamos, si estamos con algún bloqueo y los temas hablados en la reunión.
 
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/a513b7f1-d67e-4491-aef6-7ae7e92e6c99)
+
+En la carpeta "Evidencia" hay una carpeta llamada Sprint Daily donde esta todas el documento de la evidencia de las daily meeting.
 ---------------------------------------------------------------------------
 
 ### Sprint Retrospective
 
+Realizamos la retospective utilizando metroretro la herramienta que aprendimos en clase. Decidimos utilizar el template Plus / Delta.
+Esta actividad está diseñada para generar comentarios constructivos con dos secciones simples:
 
+Plus, ¿Qué fue positivo o repetible?
+
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/9dd98941-1298-40ce-8052-af8dde14184d)
+
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/c2a7ff0d-ae0d-4851-af21-dfdd8f814482)
+
+
+Delta - ¿Qué cambiarías?
+
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/4848cc4c-50d5-42c3-9d2c-f39c85f1960b)
+
+![image](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/64442147/11d17bbc-1467-4931-b721-319af5003ec6)
 
 ---------------------------------------------------------------------------
 
