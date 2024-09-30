@@ -1,6 +1,6 @@
 # Informe de obligatorio ISA
 
----------------------------------------------------------------------------
+---
 
 ## Materia: INGENIERIA DE SOFTWARE AGIL 1
 
@@ -8,7 +8,7 @@
 
 ### Estudiantes: Juan Manuel Rabuñal - Maximiliano Pascale - Sebastian Silveira
 
----------------------------------------------------------------------------
+---
 
 ### Herramienta para gestión del proyecto
 
@@ -18,7 +18,7 @@
 
 #### Repositorio Github: <https://github.com/ORT-ISA1/pascale-rabunal-silvera>
 
----------------------------------------------------------------------------
+---
 
 ## Definición del marco de trabajo
 
@@ -26,8 +26,17 @@
 
 El resultado del proyecto es poder descubrir, idear y prototipar un MVP (Minimum Viable Product) de una aplicación móvil para ayudar al usuario a reservar canchas para realizar actividades deportivas.
 
+// Dado el presupuesto cero, creo que una aplicacion web, compatible incluso con whatsapp podria ser muy buena idea.
+  -> Es decir, que mediante mensajes y autorespuestas, lograr al menos como usuario, comprometerse a jugar como tambien a poder bajarse.
+  -> Ej: mandar un codigo: "5yss", luego de la autorespuesta brinde la info generica del match en json semi formateado: {"cancha", "precio", "blablabla"}
+
 Dicho marco de trabajo es desconocido para los integrantes del equipo por lo que va a haber una cierta curva de aprendizaje dentro del desarrollo de la aplicación.
+
 Se va a necesitar de innovación, creatividad, interacción y buena comunicación con el usuario para lograr un producto que nos diferencia y logre fidelidad con el usuario ya que ya hay varias apps en el mercado.
+
+// Desde mi punto de vista, una o una serie de herramientas que faciliten la actividad deportiva en general, y que en su medida premien mediante: "algun sistema de ranking, y otras cosas", podria ayudar mucha a la divulgacion de la herramienta.
+  -> Creo que la apertura al genero deportivo, ya sea "basketball en plazas, futbol playa, voleyball, futbol 5, 7 incluso 11" puede darnos una verdadera distincion en el mercado, aunque tambien puede ser demasiado abarcativo y problematico.
+  -> El formato gratuito puede ser altamente divulgador si logramos demostrar confianza en el producto, pero tambien tendria sus complicaciones. Pero una vez consolidados como lideres en el mercado, arancelar puede ser bastante mas facil y eficaz.
 
 El equipo de desarrollo va a utilizar la forma de trabajo basada en SCRUM y además optamos por seguir un ciclo de vida evolutivo en el desarrollo del producto:
 
@@ -53,6 +62,10 @@ También se debe presentar una estimación relativa del trabajo necesario para c
 Además, la historia de usuario debe ser valiosa y no depender de otras historias de usuario para su completitud.
 En resumen, estas condiciones previas aseguran que el equipo de desarrollo tenga toda la información necesaria y comprenda completamente lo que se espera de la historia de usuario antes de comenzar a trabajar en ella.
 
+// Bien, concuerdo. Lograr desarrollar una serie de valores y reconocimientos para los perfiles seria muy bueno.
+  -> Si tenemos en cuenta lo deportivo, lograr una deportividad sana, con todo lo que ello conlleva podria ser clave en el exito del proyecto.
+  -> Queda mucho por hablar en este sentido, pensar, y generar estrategias de updates y lanzamientos, pero creo que a priori, deberiamos lograr que la herramienta funcione y sea intuitiva, facil y eficiente de usar.
+
 La definición de lista de requisitos previos para una historia de usuario entrar en una iteración incluye que:
 
 1. El título debe ser breve y muy descriptivo.
@@ -65,6 +78,9 @@ La definición de lista de requisitos previos para una historia de usuario entra
 Los criterios para determinar qué historias terminaron con éxito su proceso de implementación serán:
 
 1. Las validaciones correspondiente con el cliente, ajustando su correspondiente feedback.
+
+// Me gustaria aprender sobre esto, y me parece clave para lograr evadir boicoters.
+
 2. El elemento ha sido revisado por un par o por el equipo de desarrollo.
 3. El elemento ha sido probado y se ha verificado que funciona correctamente en diferentes entornos.
 4. Todo el trabajo debe estar integrado a main.
@@ -82,6 +98,8 @@ Trabajaremos sobre “develop”, donde cada miembro creara sus ramas y trabaja 
 Al finalizar cada sprint “develop” será mergeada a “main”.
 
 Borrar las ramas que ya integradas
+
+// Tengo que afianzarme con git, jaja.
 
 ![Repositorio del proyecto_01](https://github.com/ORT-ISA1/pascale-rabunal-silvera/assets/22498383/df8a0c9e-c365-4b71-922a-aac28feb8582)
 
@@ -134,7 +152,7 @@ En función a las recomendaciones utilizaremos el siguiente articulo para defini
     - Utilizar un estilo conciso y claro.
     - Evitar incluir información técnica compleja en el título del PR, reservar esos detalles para la descripción del PR.
 
----------------------------------------------------------------------------
+---
 
 ## Identificación del problema a resolver
 
@@ -142,11 +160,22 @@ En función a las recomendaciones utilizaremos el siguiente articulo para defini
 
 Experiencia de usuario intuitiva: La aplicación se destacará por ofrecer una interfaz de usuario fácil de usar, con un proceso de reserva rápido y sencillo, priorizando la experiencia del usuario, para que cualquier persona, independientemente de su edad o habilidades tecnológicas, pueda navegar y reservar canchas sin dificultad.
 
+// Creo que hay un par de cosas que especificar... nosotros no vamos a arrancar con contratos y asociaciones con canchas, por lo que el vinculo con la cancha puede ser lateralizado, sino que podriamos lograr una puntuacion efectiva de organizadores y usuarios random.
+  -> Por ejemplo. Yo tengo reservada la cancha 123 a las 20:00 todos los jueves. Yo consolidandome como usuario organizador, puedo postular el evento, con determinadas condiciones previas relacionadas a mi fidelidad y confianza, que den marco tanto al evento en si, como a la app.
+  -> Puede sonar un poco complejo, pero nos daria mucha capacidad de crecimiento sin necesidad de tranzar con las canchas. Pocision que puede invertir la forma del trato, ya que podemos brindar un soporte organizado para que las canchas demanden la capacidad organizativa que ellas mismas no tienen. Siendo las canchas las potenciales interesadas en trabajar con nosotros, y no nosotros tocando puertas que posiblemente no se abran.
+
 Funcionalidad de Modo Juego Aleatorio: Una característica única de la aplicación será el Modo Juego Aleatorio, donde los usuarios podrán unirse a actividades deportivas junto con otros usuarios de forma aleatoria. Esto fomentará la interacción social, permitiendo que los jugadores se conozcan y disfruten de la actividad deportiva en un entorno inclusivo.
+
+// Esato
 
 Lista de canchas favoritas y recomendaciones personalizadas: La aplicación permitirá a los usuarios guardar sus canchas favoritas para acceder rápidamente a ellas en el futuro.
 
+// Lograr un sistema de feedback, tanto de las canchas, en ranking del 1 al 5, como tambien de pelota, iluminacion, calidad del piso, proteccion en bordes, dimensiones, etc etc, brindaria a los usuarios mucha informacion valiosa a la hora de elegir partido.
+  -> Asi mismo, del usuario organizador (que puede ser jugador tambien, o no), un feedback relacionado al perfil de cada uno, en terminos de competitividad, compañerismo, respeto, estetica, nivel, etc.
+
 Interacción social y funciones de invitación: La aplicación facilitará la interacción social entre los usuarios, permitiéndoles invitar a amigos y contactos a unirse a sus reservas o juegos. Esto fomentará la participación en grupo y hará que la experiencia deportiva sea más divertida y social.
+
+// Exacto, si pudieramos lograr un servicio compatible entre appweb y whatsapp, donde el ususario pueda validarse/registrarse con facilidad, y con un simple codigo de evento lograr invitarse, y mas mierdas, seriamos la beta, tariamo despegado, seriamos gods. jaja
 
 ### Características deseadas de la población uruguaya
 
@@ -154,10 +183,18 @@ Se realizan entrevistas a potenciales interesados en el uso de la aplicación a 
 Se les informa de las características que tendrá el MVP y de la interacción con los entrevistados surgen las siguiente comentarios
 Es importante aclarar, que estas características son las deseadas por los entrevistados, no significa un compromiso para su desarrollo.
 
+// Todo a su tiempo, pero seria clave a futuro todo este tipo de cosas.
+  -> Ejemplo, 27 premios mvp (dados por votos rivales por ej, aunque no necesariamente)
+
 **1. Variedad de canchas y deportes disponibles:**
 Según lo expresado por los entrevistados es importante que la aplicación ofrezca una amplia variedad de canchas deportivas y deportes para reservar.
+
 Para priorizar esta característica, deberemos realizar encuestas para conocer los deportes y tipos de canchas que los usuarios más frecuentan y desean reservar.
+
 Para validarla, deberíamos hacer pruebas de usabilidad en las que los usuarios busquen y reserven canchas y deportes para comprobar que la aplicación ofrece suficientes opciones.
+
+// Como dije mas arriba, la oferta podria ser de eventos, donde el vinculo con la cancha no sea necesario a priori, pero si una valoracion clara para los organizadores.
+  -> Ej: 12 eventos creados con exito, solo una cancelacion pero dentro de los margenes establecidos para poder acerlo, confianza 98%.
 
 **2. Facilidad de uso:**
 La aplicación debe ser fácil y amigable de usar, con una interfaz intuitiva que permita reservar canchas en pocos pasos.
@@ -169,15 +206,23 @@ La aplicación debe ofrecer opciones de pago en línea seguras y confiables, par
 Para priorizar esta característica, se debería realizar encuestas para conocer las preferencias de los usuarios respecto a los métodos de pago en línea.
 Para validarla, deberíamos hacer pruebas de seguridad en las que se compruebe que los datos de pago están protegidos y encriptados.
 
+// Obviamente estoy de acuerdo, pero a priori no necesitariamos ni manejar plata, solo con la eficacia y confianza de los datos administrados podemos crecer muchisimo, pero tarde o temprano lo vamos a tener que implementar.
+
 **4. Comentarios y valoraciones de otros usuarios:**
 La aplicación podría ofrecer un sistema de comentarios y valoraciones de otros usuarios, para ayudar a los usuarios a elegir las mejores canchas y a mejorar la calidad del servicio.
 Para priorizarlo, deberían realizarse pruebas en las que los usuarios interactúen y así conocer si los usuarios valoran y utilizan este tipo de información.
 Para validarla, podrías hacer pruebas con usuarios en las que se compruebe que los comentarios y valoraciones son útiles y confiables.
 
+// 100% de acuerdo.
+
 **5. Recordatorios y notificaciones:**
 La aplicación podría enviar recordatorios y notificaciones a los usuarios para recordarles sus reservas y para informarles sobre nuevas ofertas y descuentos.
 Para priorizarlo, deberían realizarse pruebas en las que los usuarios interactúen y así conocer si los usuarios valoran y utilizan este tipo de información.
 Para validarla, podrías hacer pruebas con usuarios en las que se compruebe que las notificaciones son útiles y no resultan molestas o intrusivas.
+
+// 100% de acuerdo, y en caso de no complir un sistema de penas y manchas al perfil, que bajen prioridad a los ususarios no fiables.
+  -> A futuro podria implementarse un sistema de multas, a los usuarios que no cumplan con los eventos, intentando al mismo tiempo lograr una monetizacion como tambien, corrigiendo una actitud poco comprometida con los eventos asociados, dando aura de "esto es confianble, posta".
+  -> Pero para lograr que este tipo de usuarios no logren dinamitar el proceso incial del proyecto, lograr un sistema de "suplentes en los eventos", seria una idea exelente. Pudiendose poner como requisito, ser suplente de eventos, antes de poder participar en eventos directamente, con un sistema de moneda interna o algo por estilo. (Al mismo tiempo seria otra forma de monetizar a futuro, no siendo necesario ser suplente si pagas x cantidad de dinero) --- ideas, solo ideas --- 
 
 ### Identificación de interesados
 
